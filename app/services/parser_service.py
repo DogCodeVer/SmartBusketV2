@@ -3,10 +3,15 @@ import re
 import requests
 from bs4 import BeautifulSoup
 
+from fake_useragent import UserAgent
+import uuid
+import json
+
 pattern = r"(\d+([.,]\d+)?)\s?(г|кг|л|мл|gr|kg|ml)\b"
 exclude_brands = ["Global Village", "Красная цена"]
 filtered_categories = []
 
+ua = UserAgent()
 
 def parse_products_magnit(shop_code='963529', max_pages=50):
     base_url = "https://magnit.ru/catalog"
@@ -83,28 +88,28 @@ def parse_product_lenta():
 
 def parse_category():
     global filtered_categories
-    url = "https://5d.5ka.ru/api/catalog/v2/stores/35V7/categories"
+    url = "https://5d.5ka.ru/api/catalog/v2/stores/Y232/categories"
     params = {
         "mode": "delivery",
         "include_subcategories": "1",
         "include_restrict": "true"
     }
     headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+        "User-Agent": ua.random,
         "Accept": "application/json, text/plain, */*",
         "Origin": "https://5ka.ru",
-        "X-App-Version": "tc5-v250312-31214353",
-        "X-Device-Id": "f7261964-c7fa-4b75-94ee-693aa9a896e2",
+        "X-App-Version": "0.1.1.dev",
+        "X-Device-Id": str(uuid.uuid4()),
         "X-Platform": "webapp",
     }
 
     response = requests.get(url, headers=headers, params=params)
 
-    if response.status_code == 200:
-        data = response.json()
-
+    if True:
+        with open('app/services/static/categories.json', 'r', encoding='utf-8') as file:
+            data = json.load(file)
         # Фильтруем категории, исключая "Пятёрочка выручает!" и "Готовая еда"
-        excluded_categories = ["Пятёрочка выручает!", "Готовая еда"]
+        excluded_categories = ["Пятёрочка выручает!", "Готовая еда", 'Лето с Пятёрочкой', 'Окрошка', 'Закуски, снеки', 'Напитки', 'Мороженое', 'Не забудьте купить', 'Гриль']
         filtered_categories = []
 
         for category in data:
@@ -141,33 +146,34 @@ def parse_products_list(category_id: str):
     limit = 20
     # Список брендов, которые нужно исключить
 
-    while True:
-        params = {
-            "mode": "delivery",
-            "include_restrict": "true",
-            "limit": limit,
-            "offset": offset,
-        }
+    # while True:
+    #     params = {
+    #         "mode": "delivery",
+    #         "include_restrict": "true",
+    #         "limit": limit,
+    #         "offset": offset,
+    #     }
+    #
+    #     response = requests.get(url, headers=headers, params=params)
+    #     print(response.status_code)
 
-        response = requests.get(url, headers=headers, params=params)
-        print(response.status_code)
+    if True:
+        with open(f'app/services/static/{category_id}.json', 'r', encoding='utf-8') as file:
+            data = json.load(file)
+        products = data.get("products", [])
 
-        if response.status_code == 200:
-            data = response.json()
-            products = data.get("products", [])
+        # Исключаем товары с указанными брендами
+        for product in products:
+            if not any(brand.lower() in product.get("name", "").lower() for brand in exclude_brands):
+                filtered_products.append(product)
 
-            # Исключаем товары с указанными брендами
-            for product in products:
-                if not any(brand.lower() in product.get("name", "").lower() for brand in exclude_brands):
-                    filtered_products.append(product)
+        # if len(products) < limit:
+        #     break
 
-            if len(products) < limit:
-                break
-
-            offset += limit
-        else:
-            print(f"Ошибка запроса: {response.status_code}")
-            break
+        offset += limit
+    # else:
+        # print(f"Ошибка запроса: {response.status_code}")
+        # break
 
     return filtered_products
 

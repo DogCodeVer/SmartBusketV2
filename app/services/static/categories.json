@@ -1,0 +1,2185 @@
+[
+    {
+        "id": "251C17045",
+        "name": "Пятёрочка выручает!",
+        "additional_icons": [],
+        "categories": [
+            {
+                "id": "251C17046",
+                "name": "Скидки недели",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C17046-icon-fivedelivery_0d38c8db1975d661b1534774b5839381/345x345.png",
+                "gradient_start": "#FFD375",
+                "gradient_end": "#FFD375",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C17046-additional-extended-fivedelivery_21b1f1c477fc7b7549c1b72a74a8927c/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C17046-additional-search-tree-fivedelivery_88baddaf406a63e33d89213dd5746d64/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C17047",
+                "name": "Выгодно",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C17047-icon-fivedelivery_47c32e298a22c18c92c865f2ccb098d1/345x345.png",
+                "gradient_start": "#FFD375",
+                "gradient_end": "#FFD375",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C17047-additional-extended-fivedelivery_6c0f3c49210d58a2ab48c9246258a2b5/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C17047-additional-search-tree-fivedelivery_8733515b0ff8ed8639c90580a61d501d/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C17048",
+                "name": "Новинки с доставкой",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C17048-icon-fivedelivery_7bb20a3a253df6d59e00fb66d8c8883d/345x345.png",
+                "gradient_start": "#FFD375",
+                "gradient_end": "#FFD375",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C17048-additional-extended-fivedelivery_5539500a40163f22fbafd9199b2ec53d/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C17048-additional-search-tree-fivedelivery_0c3232b1cdc91e8e5cc0c2f3e83f33d8/144x144.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "251C37225",
+        "name": "Лето с Пятёрочкой",
+        "additional_icons": [],
+        "categories": [
+            {
+                "id": "251C37226",
+                "name": "Гриль",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C37226-icon-fivedelivery_66b88b2905efae12ee627251716c2f14/345x345.png",
+                "gradient_start": "#C9EEFE",
+                "gradient_end": "#C9EEFE",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C37226-additional-extended-fivedelivery_a667fb995a1d7c4584f54ef4b2c66e83/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C37226-additional-search-tree-fivedelivery_10ebfb667e6af4fbe1803674fca1bd36/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C38644",
+                "name": "Окрошка",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C38644-icon-fivedelivery_7797a135e6f96ee6835307b78af65a0e/345x345.png",
+                "gradient_start": "#C9EEFE",
+                "gradient_end": "#C9EEFE",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C38644-additional-extended-fivedelivery_7c2ceaf20ffe590a2b8572289f78fa0b/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C38644-additional-search-tree-fivedelivery_c441a2f62a593c693b6be06e000da1f3/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C37238",
+                "name": "Закуски, снеки",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C37238-icon-fivedelivery_a8551a35d60dad962307e2878a25760a/345x345.png",
+                "gradient_start": "#C9EEFE",
+                "gradient_end": "#C9EEFE",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C37238-additional-extended-fivedelivery_44028e01e4e6bbcc9ec0b37c55390b9b/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C37238-additional-search-tree-fivedelivery_8f5cc4acda137f1494872e0be307a63d/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C37256",
+                "name": "Напитки",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C37256-icon-fivedelivery_2c1ae7e5389a4036111d25b7e00f237f/345x345.png",
+                "gradient_start": "#C9EEFE",
+                "gradient_end": "#C9EEFE",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C37256-additional-extended-fivedelivery_5433c58de3880469d661098eb28dcfcd/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C37256-additional-search-tree-fivedelivery_46a0819b1013dbfe523aed31a4bf799e/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C37265",
+                "name": "Мороженое",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C37265-icon-fivedelivery_03bb816d87034244911a2c4945a244da/345x345.png",
+                "gradient_start": "#C9EEFE",
+                "gradient_end": "#C9EEFE",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C37265-additional-extended-fivedelivery_8920bb7855d197f02c35449655db0dd5/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C37265-additional-search-tree-fivedelivery_deafd110c6494034e0219eabd78345e4/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C37271",
+                "name": "Не забудьте купить",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C37271-icon-fivedelivery_3fb8ee645ed595fcd8a71d6768490ef8/345x345.png",
+                "gradient_start": "#C9EEFE",
+                "gradient_end": "#C9EEFE",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C37271-additional-extended-fivedelivery_eba7615daf3188b0fbe1ab709957afa3/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C37271-additional-search-tree-fivedelivery_ae1e3654f86ee3a86a7c181598c95963/144x144.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "251C12884",
+        "name": "Готовая еда",
+        "additional_icons": [],
+        "categories": [
+            {
+                "id": "251C14820",
+                "name": "Комбо",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C14820-icon-fivedelivery_ce204479bb21099e5539d089ebd5ce94/345x345.png",
+                "gradient_start": "#FFD5BA",
+                "gradient_end": "#FFD5BA",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C14820-additional-extended-fivedelivery_68f7cbdbdc796f6ee69cfb7eed1d46c4/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C14820-additional-search-tree-fivedelivery_89b616c3ff5ba4d860207991088abc9f/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C12891",
+                "name": "Завтраки",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C12891-icon-fivedelivery_8f43887242f5439e8929ab9389651dba/345x345.png",
+                "gradient_start": "#FFD5BA",
+                "gradient_end": "#FFD5BA",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C12891-additional-extended-fivedelivery_9e2d011acb50428cc49a57dc2b9a5a83/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C12891-additional-search-tree-fivedelivery_0281cb171b0482a6abefadbd721d7033/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13103",
+                "name": "Перекусы и напитки",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13103-icon-fivedelivery_32fc6a3b34f69a48c7992083cbbabd34/345x345.png",
+                "gradient_start": "#FFD5BA",
+                "gradient_end": "#FFD5BA",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13103-additional-extended-fivedelivery_dd704f00603dbc43df76cf4e3068f2dc/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13103-additional-search-tree-fivedelivery_40f1c0036146507c32b154add18783d9/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13979",
+                "name": "Салаты и закуски",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13979-icon-fivedelivery_2ad6fe7355a2078aad94818a4fe3381a/345x345.png",
+                "gradient_start": "#FFD5BA",
+                "gradient_end": "#FFD5BA",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13979-additional-extended-fivedelivery_3dcd473cda6f03128fd3a2bee92e5add/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13979-additional-search-tree-fivedelivery_c09ef082c5a26fcb1e0f3f6efcc99813/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13980",
+                "name": "Основные блюда и супы",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13980-icon-fivedelivery_40bede39cba7433b0d59da59faa084fc/345x345.png",
+                "gradient_start": "#FFD5BA",
+                "gradient_end": "#FFD5BA",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13980-additional-extended-fivedelivery_9a4ab31ec77f91783cc021f025c775cc/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13980-additional-search-tree-fivedelivery_e94fce61434c0ea200d87336468e2626/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13106",
+                "name": "Суши и роллы",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13106-icon-fivedelivery_27c90bf3f24eee69b05f26b681c57b04/345x345.png",
+                "gradient_start": "#FFD5BA",
+                "gradient_end": "#FFD5BA",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13106-additional-extended-fivedelivery_3f593d881d1e0b3eb3dd0a07baa514c6/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13106-additional-search-tree-fivedelivery_4199e7c051cf475849359a95b7177271/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13107",
+                "name": "Горячий кофе",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13107-icon-fivedelivery_2a4b598a7c9ac2e17f6315ede237b200/345x345.png",
+                "gradient_start": "#FFD5BA",
+                "gradient_end": "#FFD5BA",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13107-additional-extended-fivedelivery_d716804be13780ec7cc228e5de4af118/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13107-additional-search-tree-fivedelivery_f5501d5eacbc1fc285213fcd9a236f1a/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13109",
+                "name": "Наша пекарня",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13109-icon-fivedelivery_bfce77c775032e59dea0de4d398660ea/345x345.png",
+                "gradient_start": "#FFD5BA",
+                "gradient_end": "#FFD5BA",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13109-additional-extended-fivedelivery_117f779f1afb3ed1c6cdd3fed8a127ba/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13109-additional-search-tree-fivedelivery_e20822b519d62f85a22218e870b5d7d3/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C16710",
+                "name": "Вся готовая еда",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C16710-icon-fivedelivery_4bc25fb16de7b9df74b9d15a72c86138/345x345.png",
+                "gradient_start": "#FFD5BA",
+                "gradient_end": "#FFD5BA",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C16710-additional-extended-fivedelivery_9221ea8c36eaa73c6545dad870fd4bb3/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C16710-additional-search-tree-fivedelivery_80def12792cff3d56baf94f3e38b97ba/144x144.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "251C12886",
+        "name": "Овощи, фрукты, орехи",
+        "additional_icons": [],
+        "categories": [
+            {
+                "id": "251C13100",
+                "name": "Овощи, зелень, грибы",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13100-icon-fivedelivery_2b909d9868232adaa01359c2d4ad9862/345x345.png",
+                "gradient_start": "#E7F6BB",
+                "gradient_end": "#E7F6BB",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13100-additional-extended-fivedelivery_998cdff7b5fb4dfec9f34ee95d18dcb9/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13100-additional-search-tree-fivedelivery_c518ce269cc9a8d78d6255099d61883d/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13101",
+                "name": "Фрукты, ягоды",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13101-icon-fivedelivery_4bf5b27b5abc825aecb9c8ca9b9e4363/345x345.png",
+                "gradient_start": "#E7F6BB",
+                "gradient_end": "#E7F6BB",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13101-additional-extended-fivedelivery_966422fda5882a894014b2fd0a2e7c79/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13101-additional-search-tree-fivedelivery_e09666752d39446fa92bbdb465ee737f/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13102",
+                "name": "Орехи, сухофрукты",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13102-icon-fivedelivery_9c9454ed976591531cac6314b1fca4b5/345x345.png",
+                "gradient_start": "#E7F6BB",
+                "gradient_end": "#E7F6BB",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13102-additional-extended-fivedelivery_0a0bb07018fee4e889aec2bf94b1dd35/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13102-additional-search-tree-fivedelivery_2531859cab9613bae767512b1a460b1a/144x144.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "251C12887",
+        "name": "Молочная продукция и яйцо",
+        "additional_icons": [],
+        "categories": [
+            {
+                "id": "251C13093",
+                "name": "Молоко, сметана",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13093-icon-fivedelivery_80730373c3f0dd8e4b20f253857af81a/345x345.png",
+                "gradient_start": "#BFE0FF",
+                "gradient_end": "#BFE0FF",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13093-additional-extended-fivedelivery_fe11148026f219a1659b369a152b8ef5/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13093-additional-search-tree-fivedelivery_90cc6eee5a03db9639d55dd76a52917a/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13094",
+                "name": "Кефир, творог",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13094-icon-fivedelivery_64c5a2a1e4f6ca0d43954252139f5b7c/345x345.png",
+                "gradient_start": "#BFE0FF",
+                "gradient_end": "#BFE0FF",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13094-additional-extended-fivedelivery_1c6827a6c923d9f3cd6bf006f8ea0548/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13094-additional-search-tree-fivedelivery_e73b1fb73c4e550df71d2451aecfdea9/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13095",
+                "name": "Сыр",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13095-icon-fivedelivery_d500ac0d8cfd3229ecf8b06d39f54347/345x345.png",
+                "gradient_start": "#BFE0FF",
+                "gradient_end": "#BFE0FF",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13095-additional-extended-fivedelivery_1ec758039480696e5f3f9a398152c56f/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13095-additional-search-tree-fivedelivery_8a8725b2896ff5e4f653bb4e94ee20a8/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13096",
+                "name": "Яйцо, масло",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13096-icon-fivedelivery_74ab49e017590f00ed074cd7297fcf18/345x345.png",
+                "gradient_start": "#BFE0FF",
+                "gradient_end": "#BFE0FF",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13096-additional-extended-fivedelivery_253497e351e9fbbb70b7cededcfc7d19/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13096-additional-search-tree-fivedelivery_483db711886dbae8d22e572e75ca8686/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13097",
+                "name": "Майонез",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13097-icon-fivedelivery_ea087bc0b9d2cbf672787e44ac0bee17/345x345.png",
+                "gradient_start": "#BFE0FF",
+                "gradient_end": "#BFE0FF",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13097-additional-extended-fivedelivery_e46ae40cfab29fefbf0bb89471cb8e2c/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13097-additional-search-tree-fivedelivery_f8edb29fc9844af9eb43ad2de644c2ab/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13098",
+                "name": "Йогурты, десерты",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13098-icon-fivedelivery_7d4f0e524461a17854c92912db3c7211/345x345.png",
+                "gradient_start": "#BFE0FF",
+                "gradient_end": "#BFE0FF",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13098-additional-extended-fivedelivery_82109236508be81826eb49b06b3e16d8/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13098-additional-search-tree-fivedelivery_b7286c5fbc8f4b237e396a6db237bcda/144x144.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "251C12888",
+        "name": "Хлеб и выпечка",
+        "additional_icons": [],
+        "categories": [
+            {
+                "id": "251C13088",
+                "name": "Испекли для вас",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13088-icon-fivedelivery_3ad2fa77836a287a89aa1921e16b4a09/345x345.png",
+                "gradient_start": "#FFF6D4",
+                "gradient_end": "#FFF6D4",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13088-additional-extended-fivedelivery_06ff57df772f9a8d0aa17e8ed26e193b/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13088-additional-search-tree-fivedelivery_93435b0976f2e2d2b3c993a47041bed2/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13089",
+                "name": "Хлеб, лаваш",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13089-icon-fivedelivery_265d030e48b4ad563cb9f3ea6ad0644c/345x345.png",
+                "gradient_start": "#FFF6D4",
+                "gradient_end": "#FFF6D4",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13089-additional-extended-fivedelivery_7ae75d174eca074181b5daac13d44b46/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13089-additional-search-tree-fivedelivery_48649c44beb7a16b0fa779604391e616/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13090",
+                "name": "Сдоба, выпечка",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13090-icon-fivedelivery_7c70c7b903034ebb31755102b6873c1a/345x345.png",
+                "gradient_start": "#FFF6D4",
+                "gradient_end": "#FFF6D4",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13090-additional-extended-fivedelivery_f0509824fa178262f91f803a22506f85/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13090-additional-search-tree-fivedelivery_e07695826c72e23ec733c95768e893b5/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13091",
+                "name": "Хлебцы, сухари",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13091-icon-fivedelivery_1b629c06fbb64d339e418ac628ed593a/345x345.png",
+                "gradient_start": "#FFF6D4",
+                "gradient_end": "#FFF6D4",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13091-additional-extended-fivedelivery_d27124385cedeb88e8fc79c2d60c9fa8/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13091-additional-search-tree-fivedelivery_37dca21fecb0fbdf47d8abb4ff98afda/144x144.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "251C12889",
+        "name": "Мясо, птица, колбасы",
+        "additional_icons": [],
+        "categories": [
+            {
+                "id": "251C13082",
+                "name": "Мясо",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13082-icon-fivedelivery_ddf335291a4eb321726ae5c989ec0f5f/345x345.png",
+                "gradient_start": "#FDE0E0",
+                "gradient_end": "#FDE0E0",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13082-additional-extended-fivedelivery_160ddba83ad84065e2659f4484e21f59/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13082-additional-search-tree-fivedelivery_49ca239261156b01ded4f18113345886/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13083",
+                "name": "Птица",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13083-icon-fivedelivery_e8276d9743c3eff039d8fcb36dac783f/345x345.png",
+                "gradient_start": "#FDE0E0",
+                "gradient_end": "#FDE0E0",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13083-additional-extended-fivedelivery_4d88c14747af20d7cddd9b750c72741d/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13083-additional-search-tree-fivedelivery_4018333989281f36b7673fa4d7150ff6/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13084",
+                "name": "Котлеты, фарш",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13084-icon-fivedelivery_7593423562211b933ea7af6b70843648/345x345.png",
+                "gradient_start": "#FDE0E0",
+                "gradient_end": "#FDE0E0",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13084-additional-extended-fivedelivery_88a402b2f65a535cfc89ec6249812b0e/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13084-additional-search-tree-fivedelivery_a51629988a6811c41540e9bd41e410f3/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13086",
+                "name": "Колбаса, сосиски",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13086-icon-fivedelivery_d73bd309f852dc5401f464ba3f71c054/345x345.png",
+                "gradient_start": "#FDE0E0",
+                "gradient_end": "#FDE0E0",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13086-additional-extended-fivedelivery_1747e6d8367ceff9104c70020405768f/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13086-additional-search-tree-fivedelivery_b2a3769a6f7ddd68c4bc47b622e9e02a/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13087",
+                "name": "Паштеты, закуски",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13087-icon-fivedelivery_7fbeed7326824a7c5dd26e9e29a1663f/345x345.png",
+                "gradient_start": "#FDE0E0",
+                "gradient_end": "#FDE0E0",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13087-additional-extended-fivedelivery_4155962159da66bf2c1def5afeeb2e23/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13087-additional-search-tree-fivedelivery_dd285434a37c956cc312a8cfd33799da/144x144.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "251C12890",
+        "name": "Рыба и морепродукты",
+        "additional_icons": [],
+        "categories": [
+            {
+                "id": "251C13077",
+                "name": "Рыба",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13077-icon-fivedelivery_0d95a4d414cb8778cb68bbf10d75343c/345x345.png",
+                "gradient_start": "#E4E4E4",
+                "gradient_end": "#E4E4E4",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13077-additional-extended-fivedelivery_5bf91a39965f1677cf5f02752f5e884d/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13077-additional-search-tree-fivedelivery_50b82370400006846da50ff8f25b701a/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13078",
+                "name": "Морепродукты",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13078-icon-fivedelivery_3dffa678ede5db56d49c1508db3bd49e/345x345.png",
+                "gradient_start": "#E4E4E4",
+                "gradient_end": "#E4E4E4",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13078-additional-extended-fivedelivery_b70f218b36b6c5c44eea74b558fa9ad7/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13078-additional-search-tree-fivedelivery_957c4668593e104e2b4c42536e7b9805/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13079",
+                "name": "Котлеты, фарш",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13079-icon-fivedelivery_110c548f47c405bce6fbe25fdf7577d8/345x345.png",
+                "gradient_start": "#E4E4E4",
+                "gradient_end": "#E4E4E4",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13079-additional-extended-fivedelivery_d7e42439345d2bcd5567a9ac01537c4e/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13079-additional-search-tree-fivedelivery_5a614cdf2e364a0ec38266317c31f655/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13080",
+                "name": "Икра, закуски",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13080-icon-fivedelivery_cc3edebe20efe263fca386bb336a040a/345x345.png",
+                "gradient_start": "#E4E4E4",
+                "gradient_end": "#E4E4E4",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13080-additional-extended-fivedelivery_32004e6ce3377f6d05ff67a279177386/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13080-additional-search-tree-fivedelivery_aa1bc6f1c6c63cfb5cc3910175898b45/144x144.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "251C12900",
+        "name": "Сладости",
+        "additional_icons": [],
+        "categories": [
+            {
+                "id": "251C13070",
+                "name": "Шоколад, конфеты",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13070-icon-fivedelivery_8fd8cc28db6bd484b16cf728102fa14e/345x345.png",
+                "gradient_start": "#FFEAF0",
+                "gradient_end": "#FFEAF0",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13070-additional-extended-fivedelivery_ab6309c21c863c4972bf20b8cd59a96e/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13070-additional-search-tree-fivedelivery_00e4b39f7e3f8dced3cdb0332cc45a31/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13071",
+                "name": "Печенье, вафли, пряники",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13071-icon-fivedelivery_077fb248d85f652c9284d776c3fba921/345x345.png",
+                "gradient_start": "#FFEAF0",
+                "gradient_end": "#FFEAF0",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13071-additional-extended-fivedelivery_38f46ee68c79938cfd8196dbe872f5be/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13071-additional-search-tree-fivedelivery_68af8cb933d9f3424b2c1b9ade889aab/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13072",
+                "name": "Зефир, мармелад, халва",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13072-icon-fivedelivery_a880578a34daebd710b54a1a5139e24c/345x345.png",
+                "gradient_start": "#FFEAF0",
+                "gradient_end": "#FFEAF0",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13072-additional-extended-fivedelivery_3c946bec6e066f6d56fd04ac99878e4c/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13072-additional-search-tree-fivedelivery_a8e6e86d562a59cd0f8e9e4c537394a7/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13073",
+                "name": "Торты, пирожные",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13073-icon-fivedelivery_8398a195466908f6b24918dcad3ecabf/345x345.png",
+                "gradient_start": "#FFEAF0",
+                "gradient_end": "#FFEAF0",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13073-additional-extended-fivedelivery_5af31ffe57c08ee1075127996e7cb7e4/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13073-additional-search-tree-fivedelivery_e7fee6ede9157792fd6858b4142bb2df/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13074",
+                "name": "Мороженое",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13074-icon-fivedelivery_04ff0d8e64c8ad1d63c134fb449b63c7/345x345.png",
+                "gradient_start": "#FFEAF0",
+                "gradient_end": "#FFEAF0",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13074-additional-extended-fivedelivery_656e12602738e80a443ba72412343b41/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13074-additional-search-tree-fivedelivery_47df405fa15822fd6cfe05320fad66e5/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13075",
+                "name": "Жвачка, леденцы, драже",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13075-icon-fivedelivery_70b269e0dd159df598da3a38fc163ec2/345x345.png",
+                "gradient_start": "#FFEAF0",
+                "gradient_end": "#FFEAF0",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13075-additional-extended-fivedelivery_43e81859b6460cdd04125dc4f45a1302/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13075-additional-search-tree-fivedelivery_d06d0c0d7bb373cc5e69947ecf752b89/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13076",
+                "name": "Варенье, мёд, пасты",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13076-icon-fivedelivery_1c47492bb79efc31eca3d958207ecdd5/345x345.png",
+                "gradient_start": "#FFEAF0",
+                "gradient_end": "#FFEAF0",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13076-additional-extended-fivedelivery_d25fdb27abf35e4306f79b01daa7fa31/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13076-additional-search-tree-fivedelivery_fa8c78c21745009cd1c1ed242aac1163/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C38825",
+                "name": "Профессии Барни",
+                "advert": {
+                    "disclaimer": "ООО \"Мон’Дэлис Русь\" ИНН 3321020710 Erid:2VSb5yPYNSk",
+                    "info_link": null
+                },
+                "image_link": "https://photos.okolo.app/category/251C38825-icon-fivedelivery_a2f3babea59532d3c6e6b8bc415e55ed/345x345.png",
+                "gradient_start": "#FFEAF0",
+                "gradient_end": "#FFEAF0",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C38825-additional-extended-fivedelivery_4ba7375b274e946b38332829d6502e68/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C38825-additional-search-tree-fivedelivery_c86a4d49d753a8ae1883c3d5c9ecef9c/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C38759",
+                "name": "Лето в сладостях",
+                "advert": {
+                    "disclaimer": "ООО \"Марс\" ИНН 5045016560 Erid:2VSb5yiuF6x",
+                    "info_link": null
+                },
+                "image_link": "https://photos.okolo.app/category/251C38759-icon-fivedelivery_e15c1584dc304acc9b1379cd4e6526a9/345x345.png",
+                "gradient_start": "#FFEAF0",
+                "gradient_end": "#FFEAF0",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C38759-additional-extended-fivedelivery_f77719f8da3d630e0cefd6627dcc1333/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C38759-additional-search-tree-fivedelivery_665d4524da2a1e6971f9f4593536c236/144x144.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "251C12901",
+        "name": "Снеки и чипсы",
+        "additional_icons": [],
+        "categories": [
+            {
+                "id": "251C13064",
+                "name": "Чипсы, сухарики",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13064-icon-fivedelivery_fee6e59f7bcb22153037fa9d9a8b889c/345x345.png",
+                "gradient_start": "#F3E6CD",
+                "gradient_end": "#F3E6CD",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13064-additional-extended-fivedelivery_075f308e47c88022ac0b454b5be49e82/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13064-additional-search-tree-fivedelivery_e2cbc5bfccbb15c1c320670fc750dd62/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13065",
+                "name": "Соломка, крекеры",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13065-icon-fivedelivery_db5ae2fbe941aaf625285d70eb0d9062/345x345.png",
+                "gradient_start": "#F3E6CD",
+                "gradient_end": "#F3E6CD",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13065-additional-extended-fivedelivery_819911bfaa7e66e7a51c6e25fde3cebc/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13065-additional-search-tree-fivedelivery_c1dab4e5b1206b22c6939aecde431355/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13066",
+                "name": "Мясные и сырные снеки",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13066-icon-fivedelivery_7b52cc1acb418077cec3c0124fe35266/345x345.png",
+                "gradient_start": "#F3E6CD",
+                "gradient_end": "#F3E6CD",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13066-additional-extended-fivedelivery_f2fa1efc4f7cdf8b8344dc4f17ff1634/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13066-additional-search-tree-fivedelivery_4542a41c7708a794ff6c6f5e406a0e55/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13067",
+                "name": "Рыбные снеки",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13067-icon-fivedelivery_6d5b450e66cafb53a1c017ac8cf6b06c/345x345.png",
+                "gradient_start": "#F3E6CD",
+                "gradient_end": "#F3E6CD",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13067-additional-extended-fivedelivery_9297026bb8fdefc6f2a09dd863b7f87b/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13067-additional-search-tree-fivedelivery_126479390cb99da9697a1b316953b236/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13068",
+                "name": "Кукурузные снеки",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13068-icon-fivedelivery_4432359e43218fc12135e025a906d95c/345x345.png",
+                "gradient_start": "#F3E6CD",
+                "gradient_end": "#F3E6CD",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13068-additional-extended-fivedelivery_d6a8de56df8657364fc439c981932eef/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13068-additional-search-tree-fivedelivery_ba94d8cca1cf10fc12b50b1061e34bf0/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13069",
+                "name": "Орехи, семечки",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13069-icon-fivedelivery_1dad56cb92d959bad3ce6b4ed32203e1/345x345.png",
+                "gradient_start": "#F3E6CD",
+                "gradient_end": "#F3E6CD",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13069-additional-extended-fivedelivery_fb81d3be6917c3c67dc2d013e50911ef/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13069-additional-search-tree-fivedelivery_9cd08ac15e50d1acf1f729a485ae1c41/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C38753",
+                "name": "Летний пикник",
+                "advert": {
+                    "disclaimer": "ООО «Агроторг» ИНН 7825706086 Erid:2VSb5yAWxAc",
+                    "info_link": null
+                },
+                "image_link": "https://photos.okolo.app/category/251C38753-icon-fivedelivery_6026c824975c9e5946ff25d0651ae53e/345x345.png",
+                "gradient_start": "#F3E6CD",
+                "gradient_end": "#F3E6CD",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C38753-additional-extended-fivedelivery_3de0c2dcde05dde762d16919f7dd0028/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C38753-additional-search-tree-fivedelivery_0acb852a37a5397bc1862cda4a2d8b77/144x144.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "251C12902",
+        "name": "Бакалея",
+        "additional_icons": [],
+        "categories": [
+            {
+                "id": "251C13055",
+                "name": "Макароны, крупы",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13055-icon-fivedelivery_9c12e9e8d980f3565b191620f41a4ad2/345x345.png",
+                "gradient_start": "#F6F6E9",
+                "gradient_end": "#F6F6E9",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13055-additional-extended-fivedelivery_064aabf5dd8b79dffe1695fe9fe5e62e/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13055-additional-search-tree-fivedelivery_97225c163ee6452e80182ff63c79a244/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13056",
+                "name": "Сухие завтраки, каши",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13056-icon-fivedelivery_670079e889e1245940dab7380ffbed00/345x345.png",
+                "gradient_start": "#F6F6E9",
+                "gradient_end": "#F6F6E9",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13056-additional-extended-fivedelivery_fcd9a59af43187e800ce91d5a7b470f3/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13056-additional-search-tree-fivedelivery_3480ec47a5ffea97edff1c273b94b039/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13057",
+                "name": "Чай, кофе, какао",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13057-icon-fivedelivery_fd6700c56b4e32014093fd618296e1bd/345x345.png",
+                "gradient_start": "#F6F6E9",
+                "gradient_end": "#F6F6E9",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13057-additional-extended-fivedelivery_3c9e72918eb639fce3ca3679d6bc916e/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13057-additional-search-tree-fivedelivery_60058c03923bfa97e135ab19b195756c/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13058",
+                "name": "Сахар, соль, специи",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13058-icon-fivedelivery_824f0358588bb0daad5a59157ff486b5/345x345.png",
+                "gradient_start": "#F6F6E9",
+                "gradient_end": "#F6F6E9",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13058-additional-extended-fivedelivery_b93498804df88afe56d66ced9acd466d/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13058-additional-search-tree-fivedelivery_fef6e9a1517cdd21e658d94a2b38d539/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13059",
+                "name": "Масло, уксус",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13059-icon-fivedelivery_b7030085690d3c5fa4f5bf5db37a790a/345x345.png",
+                "gradient_start": "#F6F6E9",
+                "gradient_end": "#F6F6E9",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13059-additional-extended-fivedelivery_7aea94d9784f10b54d3514406a85fa62/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13059-additional-search-tree-fivedelivery_aebbf6e7ee4395bcd9120a7974db4a3a/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13060",
+                "name": "Майонез, соусы",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13060-icon-fivedelivery_121a1d1e5ba351d3494efe822cceef17/345x345.png",
+                "gradient_start": "#F6F6E9",
+                "gradient_end": "#F6F6E9",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13060-additional-extended-fivedelivery_549dfcf31d438c8d5729e8a534fac236/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13060-additional-search-tree-fivedelivery_57fb753e4adaa2da26196726455d762b/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13061",
+                "name": "Консервы, соленья",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13061-icon-fivedelivery_ac1cc7760b93dd148add010dafd38a8c/345x345.png",
+                "gradient_start": "#F6F6E9",
+                "gradient_end": "#F6F6E9",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13061-additional-extended-fivedelivery_30df309de04a04068770f1ca39a705e4/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13061-additional-search-tree-fivedelivery_ec648cb604c7391327e1764eed378395/144x144.png"
+                    },
+                    {
+                        "type": "search_sale",
+                        "url": "https://photos.okolo.app/category/251C13061-additional-search-sale-fivedelivery_9262e2df222ec01a772ddda92fa3c607/70x48.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13062",
+                "name": "Всё для выпечки",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13062-icon-fivedelivery_05975a121ee6e20ef993176389446c1c/345x345.png",
+                "gradient_start": "#F6F6E9",
+                "gradient_end": "#F6F6E9",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13062-additional-extended-fivedelivery_ee75902a54fb89d116958830f041e218/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13062-additional-search-tree-fivedelivery_94f1b870956cca6144b38eee9e6d6f86/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13063",
+                "name": "Залить кипятком",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13063-icon-fivedelivery_3528eee5113def5b690af64c5f0b729c/345x345.png",
+                "gradient_start": "#F6F6E9",
+                "gradient_end": "#F6F6E9",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13063-additional-extended-fivedelivery_bc6bd5c4c742b61d52ac1ac1fe9ff12b/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13063-additional-search-tree-fivedelivery_4a073b0d530c9ef4d3ee32df71931698/144x144.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "251C12903",
+        "name": "Замороженные продукты",
+        "additional_icons": [],
+        "categories": [
+            {
+                "id": "251C13048",
+                "name": "Мороженое и лёд",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13048-icon-fivedelivery_78ee9ba11dd992d413863281e84f88f8/345x345.png",
+                "gradient_start": "#E3F2EF",
+                "gradient_end": "#E3F2EF",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13048-additional-extended-fivedelivery_6cd050c1f3cee6698398b2a8ab1c3d5f/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13048-additional-search-tree-fivedelivery_30bfefec2b1d6c1c36b99882cfe66785/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13049",
+                "name": "Рыба и морепродукты",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13049-icon-fivedelivery_2f32ad48f83bb68f3681d082915468d8/345x345.png",
+                "gradient_start": "#E3F2EF",
+                "gradient_end": "#E3F2EF",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13049-additional-extended-fivedelivery_b7b997058871c255e55623d3ef55f6a3/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13049-additional-search-tree-fivedelivery_0870edfb9c5b9243ee50b64b49f60322/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13050",
+                "name": "Мясо, фарш, котлеты",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13050-icon-fivedelivery_f1efce67915f90d0d331fe1827a7e49b/345x345.png",
+                "gradient_start": "#E3F2EF",
+                "gradient_end": "#E3F2EF",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13050-additional-extended-fivedelivery_ba81e8d69b0c315769718efcda9d1653/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13050-additional-search-tree-fivedelivery_6ff5096b094a660b3965f06c463f9acd/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13051",
+                "name": "Пельмени и вареники",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13051-icon-fivedelivery_9f489fe75efec3ffa1a7783e42791a24/345x345.png",
+                "gradient_start": "#E3F2EF",
+                "gradient_end": "#E3F2EF",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13051-additional-extended-fivedelivery_6a8c46eadbc96ad7dd32656795df3470/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13051-additional-search-tree-fivedelivery_4380fee23e263260f8a07b00e1bde700/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13052",
+                "name": "Овощи, фрукты, ягоды",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13052-icon-fivedelivery_ae25effc49064773a2cfd23cf13fa58f/345x345.png",
+                "gradient_start": "#E3F2EF",
+                "gradient_end": "#E3F2EF",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13052-additional-extended-fivedelivery_f6ff69cb323995032b543fbcbbd837d2/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13052-additional-search-tree-fivedelivery_208070dc9cffd191894c4bf465b49ca6/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13053",
+                "name": "Замороженные блюда",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13053-icon-fivedelivery_0a138ee87e9296b3704b8080d9708ae8/345x345.png",
+                "gradient_start": "#E3F2EF",
+                "gradient_end": "#E3F2EF",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13053-additional-extended-fivedelivery_b6d6d3acce33cf3bd27c763a8397fc43/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13053-additional-search-tree-fivedelivery_8121e3ee509490825b3c4ce50a746348/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13054",
+                "name": "Тесто и выпечка",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13054-icon-fivedelivery_e5f5993927cc2a2da45a9f9eb249c94c/345x345.png",
+                "gradient_start": "#E3F2EF",
+                "gradient_end": "#E3F2EF",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13054-additional-extended-fivedelivery_506ecea31082b90f207dfa12936f6f0b/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13054-additional-search-tree-fivedelivery_5ad148393be29376c244c0ac43e1db43/144x144.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "251C12904",
+        "name": "Вода и напитки",
+        "additional_icons": [],
+        "categories": [
+            {
+                "id": "251C13042",
+                "name": "Вода",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13042-icon-fivedelivery_b225c0f176bae06fddf72bfc4d426ac1/345x345.png",
+                "gradient_start": "#C9EEFE",
+                "gradient_end": "#C9EEFE",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13042-additional-extended-fivedelivery_059c55229f6115ecfb61a8b81f5a00d8/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13042-additional-search-tree-fivedelivery_8b88f1a92f6d55a471924c1ceba92626/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13043",
+                "name": "Газировка",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13043-icon-fivedelivery_a64e4d5a2818cc5f973fc74ea9c67bc0/345x345.png",
+                "gradient_start": "#C9EEFE",
+                "gradient_end": "#C9EEFE",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13043-additional-extended-fivedelivery_a076792050e95d7f7bc98d09818e4e35/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13043-additional-search-tree-fivedelivery_05359c735bc1bf7afb8b55c5706b89ab/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13044",
+                "name": "Соки, морсы",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13044-icon-fivedelivery_222d0f28ad14c2d7251d552f87f46040/345x345.png",
+                "gradient_start": "#C9EEFE",
+                "gradient_end": "#C9EEFE",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13044-additional-extended-fivedelivery_35d9af63d297b6742494a6090d61b93e/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13044-additional-search-tree-fivedelivery_30ba2aa12799b8d64e70e7fd4d15897b/144x144.png"
+                    },
+                    {
+                        "type": "search_sale",
+                        "url": "https://photos.okolo.app/category/251C13044-additional-search-sale-fivedelivery_02023a1445c033edca7133c711338907/70x48.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13045",
+                "name": "Холодный чай, квас",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13045-icon-fivedelivery_a3c33187bb8378cb21761f68d23b24a4/345x345.png",
+                "gradient_start": "#C9EEFE",
+                "gradient_end": "#C9EEFE",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13045-additional-extended-fivedelivery_fa75e7eeb011ed76778e9babf17d698f/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13045-additional-search-tree-fivedelivery_f0fa5b08d796833dfaf146dd5848c750/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13046",
+                "name": "Горячий кофе",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13046-icon-fivedelivery_a80dc0fe37aa2df3d11b6f2fbd19cdc1/345x345.png",
+                "gradient_start": "#C9EEFE",
+                "gradient_end": "#C9EEFE",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13046-additional-extended-fivedelivery_abd975b8c9067ebb58efe1ef4c468521/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13046-additional-search-tree-fivedelivery_02fd38764aeff03808aa75cd6ece892a/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13047",
+                "name": "Пиво, вино, энергетики",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13047-icon-fivedelivery_1ee6a028d1c290d3a95b8854b4456f16/345x345.png",
+                "gradient_start": "#C9EEFE",
+                "gradient_end": "#C9EEFE",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13047-additional-extended-fivedelivery_b3aef635e82aa05bbcbded5f40a7c72d/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13047-additional-search-tree-fivedelivery_8c7e1a03e717f3b674727afae0c12132/144x144.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "251C12905",
+        "name": "Здоровый выбор",
+        "additional_icons": [],
+        "categories": [
+            {
+                "id": "251C14206",
+                "name": "Вкус & Польза",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C14206-icon-fivedelivery_0f30dddf99abf02b1d0edad56b30c7dd/345x345.png",
+                "gradient_start": "#C2ECCB",
+                "gradient_end": "#C2ECCB",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C14206-additional-extended-fivedelivery_463b03e87f0395c60422daca3b0a8244/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C14206-additional-search-tree-fivedelivery_431fa4daac94aa5a6ea11c8dc7733e53/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13037",
+                "name": "Перекус с пользой",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13037-icon-fivedelivery_977507cdc92aa18dae0c2854641d3111/345x345.png",
+                "gradient_start": "#C2ECCB",
+                "gradient_end": "#C2ECCB",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13037-additional-extended-fivedelivery_b97a05d5fe67d1cc536d62a3d18f3865/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13037-additional-search-tree-fivedelivery_5513cf82f4541eaf4ca16f41dc40ceee/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13038",
+                "name": "Веган, без глютена",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13038-icon-fivedelivery_22c4720f78597b2df75f669264a03cdd/345x345.png",
+                "gradient_start": "#C2ECCB",
+                "gradient_end": "#C2ECCB",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13038-additional-extended-fivedelivery_3753b2acac429217d3540c5f6b60035e/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13038-additional-search-tree-fivedelivery_66049728dfe821a36df5cee42828126d/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13039",
+                "name": "Напитки",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13039-icon-fivedelivery_b542eb7d00a2970d73df44c12381616e/345x345.png",
+                "gradient_start": "#C2ECCB",
+                "gradient_end": "#C2ECCB",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13039-additional-extended-fivedelivery_69e51909349499dd0245c1d804ae9cfb/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13039-additional-search-tree-fivedelivery_5caa243fdc39f6f49df64f237920d89f/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13040",
+                "name": "Спортивное питание",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13040-icon-fivedelivery_1fb36d1bab7e28ab1f6251b6662d991f/345x345.png",
+                "gradient_start": "#C2ECCB",
+                "gradient_end": "#C2ECCB",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13040-additional-extended-fivedelivery_dd5939fe18363973dfe3a2f10da2566a/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13040-additional-search-tree-fivedelivery_52fb5b7fa0904a12e33e9ebf211148c8/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13041",
+                "name": "Без лактозы, халяль",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13041-icon-fivedelivery_48912f291c1ac677d090ba661b6ab869/345x345.png",
+                "gradient_start": "#C2ECCB",
+                "gradient_end": "#C2ECCB",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13041-additional-extended-fivedelivery_df2faa101003371becdd9a0f96e0fed6/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13041-additional-search-tree-fivedelivery_f2251be7016badc82222b7e7f77efb28/144x144.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "251C12906",
+        "name": "Для детей",
+        "additional_icons": [],
+        "categories": [
+            {
+                "id": "251C13032",
+                "name": "Детское питание",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13032-icon-fivedelivery_c6bd6ac52a1355cdb34c74938a890c7c/345x345.png",
+                "gradient_start": "#F7CFC6",
+                "gradient_end": "#F7CFC6",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13032-additional-extended-fivedelivery_1f6d017cd92b6137ef20cc7bc28c8b52/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13032-additional-search-tree-fivedelivery_fd3f8f48fb464d7e7730a4d2a5c5dc8f/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13033",
+                "name": "Детские напитки",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13033-icon-fivedelivery_8025094c4424e520fbed710cfd950cb8/345x345.png",
+                "gradient_start": "#F7CFC6",
+                "gradient_end": "#F7CFC6",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13033-additional-extended-fivedelivery_54bdbbc5cd3a3f64d13007f849a12e08/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13033-additional-search-tree-fivedelivery_38f4e3b0c4e9e5ab1b7120d62d1e0a17/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13034",
+                "name": "Детская гигиена",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13034-icon-fivedelivery_dfa12d437d059ad929f6a2d5e12e1f9a/345x345.png",
+                "gradient_start": "#F7CFC6",
+                "gradient_end": "#F7CFC6",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13034-additional-extended-fivedelivery_e1b6659ea253918892b6249ae2839366/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13034-additional-search-tree-fivedelivery_8e519b12e9d7d7515f4932102e235ea4/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13035",
+                "name": "Игры и игрушки",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13035-icon-fivedelivery_e74bc74d20cf87ffa5386a73917aae68/345x345.png",
+                "gradient_start": "#F7CFC6",
+                "gradient_end": "#F7CFC6",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13035-additional-extended-fivedelivery_f01b1770dceb150564a395f054d376f7/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13035-additional-search-tree-fivedelivery_e3471ad155e10585a58f3962186e738d/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13036",
+                "name": "Школа и хобби",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13036-icon-fivedelivery_ca2092c2e1cba311ef9427ab7f3b7764/345x345.png",
+                "gradient_start": "#F7CFC6",
+                "gradient_end": "#F7CFC6",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13036-additional-extended-fivedelivery_67ef84ea8c7acecb30d35e9023af8674/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13036-additional-search-tree-fivedelivery_fae079d54faa5abb997b204679359889/144x144.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "251C12907",
+        "name": "Для животных",
+        "additional_icons": [],
+        "categories": [
+            {
+                "id": "251C13029",
+                "name": "Для кошек",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13029-icon-fivedelivery_7b811926ebec4abbc1e86e4fbd303cee/345x345.png",
+                "gradient_start": "#F1F2D2",
+                "gradient_end": "#F1F2D2",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13029-additional-extended-fivedelivery_77ef148919873ec5408c32a0721ba36a/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13029-additional-search-tree-fivedelivery_c0abb04b67336d0faab700161d59bea4/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13030",
+                "name": "Для собак",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13030-icon-fivedelivery_ba226cce9a4a534f1a52e6873d83bbf0/345x345.png",
+                "gradient_start": "#F1F2D2",
+                "gradient_end": "#F1F2D2",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13030-additional-extended-fivedelivery_aa578179b22561cff4b56c2bd3c9de07/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13030-additional-search-tree-fivedelivery_0df418cc59e4274979156576498a2ef5/144x144.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "251C12908",
+        "name": "Красота, гигиена, аптека",
+        "additional_icons": [],
+        "categories": [
+            {
+                "id": "251C13023",
+                "name": "Уход за волосами",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13023-icon-fivedelivery_df4a19207d6c6511232f1638eb46aef4/345x345.png",
+                "gradient_start": "#FCDDFF",
+                "gradient_end": "#FCDDFF",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13023-additional-extended-fivedelivery_f33190c066422bd7727e363d14e49366/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13023-additional-search-tree-fivedelivery_e9ca2b1b8f75c276d30bc9e05eb48b26/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13024",
+                "name": "Уход за телом и лицом",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13024-icon-fivedelivery_eb2835467dbce0263ed88e402945f9b1/345x345.png",
+                "gradient_start": "#FCDDFF",
+                "gradient_end": "#FCDDFF",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13024-additional-extended-fivedelivery_b3d9fedea623d31603221c85ccc56224/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13024-additional-search-tree-fivedelivery_d1bf6cf1ec0ee925e320516299209a8b/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13025",
+                "name": "Уход за полостью рта",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13025-icon-fivedelivery_76587df2b63c572864048540922afac7/345x345.png",
+                "gradient_start": "#FCDDFF",
+                "gradient_end": "#FCDDFF",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13025-additional-extended-fivedelivery_7d7a62ff7dbbb6a20c2e82b8439cf1e5/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13025-additional-search-tree-fivedelivery_931e8b4668181a4bd7e8c93f7bb8cd23/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13026",
+                "name": "Бумага и салфетки",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13026-icon-fivedelivery_c993ef1d2219a115e3c444bd3d257fce/345x345.png",
+                "gradient_start": "#FCDDFF",
+                "gradient_end": "#FCDDFF",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13026-additional-extended-fivedelivery_a753b1408cd53648da2ef489629d901c/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13026-additional-search-tree-fivedelivery_b1f7be7d942a648cdd4df05eeb3e0801/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13027",
+                "name": "Аптека",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13027-icon-fivedelivery_d6f10acdac6dc9120c6e37e556009915/345x345.png",
+                "gradient_start": "#FCDDFF",
+                "gradient_end": "#FCDDFF",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13027-additional-extended-fivedelivery_f960a2922a0907af34ef6f231cf057fd/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13027-additional-search-tree-fivedelivery_ce15ca6671ef4d10c7904a0eeda40dae/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13028",
+                "name": "ЛЭТУАЛЬ в Пятёрочке",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13028-icon-fivedelivery_8e34fb30664dde09e2b9608e4f1bb2c9/345x345.png",
+                "gradient_start": "#FCDDFF",
+                "gradient_end": "#FCDDFF",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13028-additional-extended-fivedelivery_24d5d9eab3fe2d279009c3e439285ba5/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13028-additional-search-tree-fivedelivery_b80d456325ee65ecb8be10e2b0eebe9a/144x144.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "251C12909",
+        "name": "Стирка и уборка",
+        "additional_icons": [],
+        "categories": [
+            {
+                "id": "251C13018",
+                "name": "Стирка",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13018-icon-fivedelivery_5172b25ddda123717c981974705f3f26/345x345.png",
+                "gradient_start": "#BBE0EF",
+                "gradient_end": "#BBE0EF",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13018-additional-extended-fivedelivery_79aab25e9710fbe517916b6de726194e/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13018-additional-search-tree-fivedelivery_5ebeab07198e20926648b1ec71108ef9/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13019",
+                "name": "Для мытья посуды",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13019-icon-fivedelivery_7bc7f4ad8d14e4979be916840ce87820/345x345.png",
+                "gradient_start": "#BBE0EF",
+                "gradient_end": "#BBE0EF",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13019-additional-extended-fivedelivery_0d2b59a4c668bd5dcf357be1070a53d2/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13019-additional-search-tree-fivedelivery_eb165922996e08aab29dd588ba05d3ba/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13020",
+                "name": "Чистящие средства",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13020-icon-fivedelivery_97587fbd23bec0cd1df3a5801821ce6d/345x345.png",
+                "gradient_start": "#BBE0EF",
+                "gradient_end": "#BBE0EF",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13020-additional-extended-fivedelivery_c895d51904eebf28c1b4c689a85ddc35/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13020-additional-search-tree-fivedelivery_0beca4f0e57e14f8073244aeed2559c1/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13021",
+                "name": "Предметы для уборки",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13021-icon-fivedelivery_2701ea7f4d421a1660ef7adba7e76d85/345x345.png",
+                "gradient_start": "#BBE0EF",
+                "gradient_end": "#BBE0EF",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13021-additional-extended-fivedelivery_50d6d4c66bf504f0a3617479fcdcabb9/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13021-additional-search-tree-fivedelivery_567a5ac0940775011fc5950881e83c40/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C13022",
+                "name": "Ароматы для дома",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C13022-icon-fivedelivery_50335a72946bfa8cb455c6c28b05c287/345x345.png",
+                "gradient_start": "#BBE0EF",
+                "gradient_end": "#BBE0EF",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C13022-additional-extended-fivedelivery_ba5d974866e15a821cb182759520de49/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C13022-additional-search-tree-fivedelivery_fb2698d7054bcd82bf6406088f787966/144x144.png"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "251C12910",
+        "name": "Для дома и дачи",
+        "additional_icons": [],
+        "categories": [
+            {
+                "id": "251C12942",
+                "name": "Кухня",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C12942-icon-fivedelivery_6232303c2933ac04e41aed84cfbb36ed/345x345.png",
+                "gradient_start": "#D2D8EC",
+                "gradient_end": "#D2D8EC",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C12942-additional-extended-fivedelivery_d3e31e5810796859cdcd7331cf812a7a/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C12942-additional-search-tree-fivedelivery_0cbbc5a3009229b46a6e956dcf9d9df5/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C12943",
+                "name": "Дача и отдых",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C12943-icon-fivedelivery_641d92caac412db4b3381f6516e7bda5/345x345.png",
+                "gradient_start": "#D2D8EC",
+                "gradient_end": "#D2D8EC",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C12943-additional-extended-fivedelivery_e2ec7866d2d29918e944b4a59addb0c8/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C12943-additional-search-tree-fivedelivery_983fc5ca39f40aa54aa8161dc84dddd7/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C12944",
+                "name": "Хозтовары",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C12944-icon-fivedelivery_e240777d7878bbd46edd2440fe533086/345x345.png",
+                "gradient_start": "#D2D8EC",
+                "gradient_end": "#D2D8EC",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C12944-additional-extended-fivedelivery_72d2b0d66f72402a3c93c15e8b76be6f/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C12944-additional-search-tree-fivedelivery_b2fd57dc97ee48306aa4204c3d264640/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C12945",
+                "name": "Декор для дома",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C12945-icon-fivedelivery_05e5fa1c22067e066c1c057ab565ad24/345x345.png",
+                "gradient_start": "#D2D8EC",
+                "gradient_end": "#D2D8EC",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C12945-additional-extended-fivedelivery_28f1894b6c4f42eef2912083f11eba76/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C12945-additional-search-tree-fivedelivery_0fb35a464a45f9f0ea7c38baab55cf32/144x144.png"
+                    }
+                ]
+            },
+            {
+                "id": "251C12946",
+                "name": "Одежда и аксессуары",
+                "advert": null,
+                "image_link": "https://photos.okolo.app/category/251C12946-icon-fivedelivery_4455529342908a2f094edfba3a3bdefa/345x345.png",
+                "gradient_start": "#D2D8EC",
+                "gradient_end": "#D2D8EC",
+                "title_color": "#302E33",
+                "additional_icons": [
+                    {
+                        "type": "extended",
+                        "url": "https://photos.okolo.app/category/251C12946-additional-extended-fivedelivery_c18ad2a8dcd6aca0d7a7d82908dd93e2/312x348.png"
+                    },
+                    {
+                        "type": "search_tree",
+                        "url": "https://photos.okolo.app/category/251C12946-additional-search-tree-fivedelivery_3f3aa37ef2b0c99893d1cb99bfa0fe07/144x144.png"
+                    }
+                ]
+            }
+        ]
+    }
+]

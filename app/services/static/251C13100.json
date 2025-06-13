@@ -1,0 +1,889 @@
+{
+    "parent_id": "251C12886",
+    "name": "Овощи, зелень, грибы",
+    "filters": [
+        {
+            "name": "Цена, ₽",
+            "field_name": "price",
+            "filter_type": "range",
+            "list_values": null,
+            "range_min_val": "50.99",
+            "range_max_val": "444.99"
+        },
+        {
+            "name": "Бренд",
+            "field_name": "brand",
+            "filter_type": "list",
+            "list_values": {
+                "all": [
+                    "Global Village",
+                    "Белая Дача",
+                    "Эко-культура",
+                    "Гурме",
+                    "Дмитровские Овощи",
+                    "Рост",
+                    "Сад и огород",
+                    "Солнечная планета",
+                    "Flamenco",
+                    "Leor",
+                    "Pura vida",
+                    "Агрохолдинг Московский",
+                    "Без бренда",
+                    "В.С.Е",
+                    "Выгодно",
+                    "Джаз",
+                    "Знай Наших",
+                    "Красная цена",
+                    "Лето",
+                    "Луховицкие овощи",
+                    "Маркет",
+                    "Пусть Всегда Будет Солнце",
+                    "Рост ",
+                    "ФЭГ",
+                    "Фермерский Чеснок",
+                    "Холодушка",
+                    "Экопродукт"
+                ],
+                "actual": null
+            },
+            "range_min_val": null,
+            "range_max_val": null
+        },
+        {
+            "name": "Со скидкой",
+            "field_name": "special_offers",
+            "filter_type": "toggle",
+            "list_values": {
+                "all": [
+                    "Скидка %"
+                ],
+                "actual": null
+            },
+            "range_min_val": null,
+            "range_max_val": null
+        }
+    ],
+    "products": [
+        {
+            "plu": 2250692,
+            "name": "Огурцы короткоплодные 450г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1161674-main/320x320.jpeg?updated_at=2025-03-10T18:32:07.612Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1161674-main/800x800.jpeg?updated_at=2025-03-10T18:32:07.612Z",
+                    "https://photos.okolo.app/product/100d537a8de8094f1060bb86b66406e2-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.89,
+                "rates_count": 69948
+            },
+            "promo": null,
+            "prices": {
+                "regular": "123.19",
+                "discount": "109.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-10%",
+                    "bg_color": "#FFD700",
+                    "text_color": "#302E33"
+                }
+            ],
+            "property_clarification": "450 г",
+            "has_age_restriction": false,
+            "stock_limit": "39.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": null
+        },
+        {
+            "plu": 43347,
+            "name": "Перец красный сладкий",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1158149-main/320x320.jpeg?updated_at=2025-03-05T10:57:53.042Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1158149-main/800x800.jpeg?updated_at=2025-03-05T10:57:53.042Z"
+                ]
+            },
+            "uom": "кг",
+            "step": "0.4",
+            "rating": {
+                "rating_average": 4.91,
+                "rates_count": 150802
+            },
+            "promo": null,
+            "prices": {
+                "regular": "299.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "Цена за 1 кг",
+            "has_age_restriction": false,
+            "stock_limit": "21.82",
+            "badges": [],
+            "initial_weight_step": "0.4",
+            "min_weight": "0.4",
+            "orange_loyalty_points": 140
+        },
+        {
+            "plu": 3676649,
+            "name": "Томаты Медовые черри красные круглые 200г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1189891-main/320x320.jpeg?updated_at=2025-03-10T18:16:41.845Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1189891-main/800x800.jpeg?updated_at=2025-03-10T18:16:41.845Z",
+                    "https://photos.okolo.app/product/bbd185243bff19e82c6a3b7b216f23b5-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/9029194decc29ee1ab56c6c2b37e113a-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/7eeab17c05a0d883c94c1850a0534494-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.91,
+                "rates_count": 18675
+            },
+            "promo": null,
+            "prices": {
+                "regular": "189.99",
+                "discount": "159.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-15%",
+                    "bg_color": "#FFD700",
+                    "text_color": "#302E33"
+                }
+            ],
+            "property_clarification": "200 г",
+            "has_age_restriction": false,
+            "stock_limit": "17.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": null
+        },
+        {
+            "plu": 3267174,
+            "name": "Редис красный 125г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1164711-main/320x320.jpeg?updated_at=2025-03-05T10:57:45.384Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1164711-main/800x800.jpeg?updated_at=2025-03-05T10:57:45.384Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.85,
+                "rates_count": 6663
+            },
+            "promo": null,
+            "prices": {
+                "regular": "115.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "125 г",
+            "has_age_restriction": false,
+            "stock_limit": "11.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 70
+        },
+        {
+            "plu": 59403,
+            "name": "Картофель Leor вареный очищенный 500г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1453688-main/320x320.jpeg?updated_at=2025-03-05T13:58:08.146Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1453688-main/800x800.jpeg?updated_at=2025-03-05T13:58:08.146Z",
+                    "https://photos.okolo.app/product/105b63ccaf4d50e7c6abcb637b0d9455-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.66,
+                "rates_count": 263
+            },
+            "promo": null,
+            "prices": {
+                "regular": "129.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "500 г",
+            "has_age_restriction": false,
+            "stock_limit": "9.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 70
+        },
+        {
+            "plu": 197,
+            "name": "Лук репчатый",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1157058-main/320x320.jpeg?updated_at=2025-03-10T18:48:29.519Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1157058-main/800x800.jpeg?updated_at=2025-03-10T18:48:29.519Z"
+                ]
+            },
+            "uom": "кг",
+            "step": "0.5",
+            "rating": {
+                "rating_average": 4.88,
+                "rates_count": 361180
+            },
+            "promo": null,
+            "prices": {
+                "regular": "87.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "Цена за 1 кг",
+            "has_age_restriction": false,
+            "stock_limit": "174.83",
+            "badges": [],
+            "initial_weight_step": "0.5",
+            "min_weight": "0.5",
+            "orange_loyalty_points": 61
+        },
+        {
+            "plu": 2138999,
+            "name": "Морковь",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1161089-main/320x320.jpeg?updated_at=2025-05-30T06:41:39.228Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1161089-main/800x800.jpeg?updated_at=2025-05-30T06:41:39.228Z"
+                ]
+            },
+            "uom": "кг",
+            "step": "0.5",
+            "rating": {
+                "rating_average": 4.89,
+                "rates_count": 289182
+            },
+            "promo": null,
+            "prices": {
+                "regular": "55.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "Цена за 1 кг",
+            "has_age_restriction": false,
+            "stock_limit": "78.94",
+            "badges": [],
+            "initial_weight_step": "0.5",
+            "min_weight": "0.5",
+            "orange_loyalty_points": 39
+        },
+        {
+            "plu": 202,
+            "name": "Томаты",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1157060-main/320x320.jpeg?updated_at=2025-03-05T10:57:55.098Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1157060-main/800x800.jpeg?updated_at=2025-03-05T10:57:55.098Z"
+                ]
+            },
+            "uom": "кг",
+            "step": "0.5",
+            "rating": {
+                "rating_average": 4.88,
+                "rates_count": 309492
+            },
+            "promo": null,
+            "prices": {
+                "regular": "166.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "Цена за 1 кг",
+            "has_age_restriction": false,
+            "stock_limit": "20.99",
+            "badges": [],
+            "initial_weight_step": "0.5",
+            "min_weight": "0.5",
+            "orange_loyalty_points": 70
+        },
+        {
+            "plu": 4221768,
+            "name": "Томаты Фламенко сливовидные",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1482863-main/320x320.jpeg?updated_at=2025-03-10T18:16:41.735Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1482863-main/800x800.jpeg?updated_at=2025-03-10T18:16:41.735Z",
+                    "https://photos.okolo.app/product/5d6099e0483cec73ec4d3774399c2cb0-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "кг",
+            "step": "0.5",
+            "rating": {
+                "rating_average": 4.91,
+                "rates_count": 87288
+            },
+            "promo": null,
+            "prices": {
+                "regular": "279.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "Цена за 1 кг",
+            "has_age_restriction": false,
+            "stock_limit": "13.93",
+            "badges": [],
+            "initial_weight_step": "0.5",
+            "min_weight": "0.5",
+            "orange_loyalty_points": 140
+        },
+        {
+            "plu": 198,
+            "name": "Капуста белокочанная",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1157059-main/320x320.jpeg?updated_at=2025-03-06T15:11:58.064Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1157059-main/800x800.jpeg?updated_at=2025-03-06T15:11:58.064Z"
+                ]
+            },
+            "uom": "кг",
+            "step": "2.0",
+            "rating": {
+                "rating_average": 4.9,
+                "rates_count": 159612
+            },
+            "promo": null,
+            "prices": {
+                "regular": "50.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "Цена за 1 кг",
+            "has_age_restriction": false,
+            "stock_limit": "53.88",
+            "badges": [],
+            "initial_weight_step": "2.0",
+            "min_weight": "2.0",
+            "orange_loyalty_points": 35
+        },
+        {
+            "plu": 4217380,
+            "name": "Томаты Фламенко сливовидные красные 450г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1445665-main/320x320.jpeg?updated_at=2025-03-10T18:32:05.115Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1445665-main/800x800.jpeg?updated_at=2025-03-10T18:32:05.115Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.9,
+                "rates_count": 57816
+            },
+            "promo": null,
+            "prices": {
+                "regular": "179.99",
+                "discount": "159.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-11%",
+                    "bg_color": "#FFD700",
+                    "text_color": "#302E33"
+                }
+            ],
+            "property_clarification": "450 г",
+            "has_age_restriction": false,
+            "stock_limit": "17.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": null
+        },
+        {
+            "plu": 4249270,
+            "name": "Томаты Global Village Черри тепличные красные 250г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1471896-main/320x320.jpeg?updated_at=2025-03-10T18:32:05.095Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1471896-main/800x800.jpeg?updated_at=2025-03-10T18:32:05.095Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.91,
+                "rates_count": 40275
+            },
+            "promo": null,
+            "prices": {
+                "regular": "156.79",
+                "discount": "139.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-10%",
+                    "bg_color": "#FFD700",
+                    "text_color": "#302E33"
+                }
+            ],
+            "property_clarification": "250 г",
+            "has_age_restriction": false,
+            "stock_limit": "22.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": null
+        },
+        {
+            "plu": 127,
+            "name": "Картофель ранний",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1157053-main/320x320.jpeg?updated_at=2025-03-11T17:28:00.304Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1157053-main/800x800.jpeg?updated_at=2025-03-11T17:28:00.304Z",
+                    "https://photos.okolo.app/product/a81416596859f33e1de509ba146cb4f7-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/0e2e076f0c66802e9a350940f687d592-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/f1f705fe50b6c82d85c4e202ee0592b4-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "кг",
+            "step": "2.0",
+            "rating": {
+                "rating_average": 4.88,
+                "rates_count": 152165
+            },
+            "promo": null,
+            "prices": {
+                "regular": "109.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "Цена за 1 кг",
+            "has_age_restriction": false,
+            "stock_limit": "188.68",
+            "badges": [],
+            "initial_weight_step": "2.0",
+            "min_weight": "2.0",
+            "orange_loyalty_points": 70
+        },
+        {
+            "plu": 3219701,
+            "name": "Огурцы короткоплодные",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1163999-main/320x320.jpeg?updated_at=2025-03-05T10:57:45.423Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1163999-main/800x800.jpeg?updated_at=2025-03-05T10:57:45.423Z"
+                ]
+            },
+            "uom": "кг",
+            "step": "0.5",
+            "rating": {
+                "rating_average": 4.88,
+                "rates_count": 100686
+            },
+            "promo": null,
+            "prices": {
+                "regular": "159.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "Цена за 1 кг",
+            "has_age_restriction": false,
+            "stock_limit": "11.60",
+            "badges": [],
+            "initial_weight_step": "0.5",
+            "min_weight": "0.5",
+            "orange_loyalty_points": 70
+        },
+        {
+            "plu": 76432,
+            "name": "Салат листовой в горшочке 1шт.",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1158941-main/320x320.jpeg?updated_at=2025-03-10T18:32:08.627Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1158941-main/800x800.jpeg?updated_at=2025-03-10T18:32:08.627Z",
+                    "https://photos.okolo.app/product/b6b9c929d3d85aba911d3675c2e7f649-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/40d37824ba20d8af03e36d334edde0e5-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/36459193a6627792c354c3221d208ee4-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.91,
+                "rates_count": 55988
+            },
+            "promo": null,
+            "prices": {
+                "regular": "69.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "80 г",
+            "has_age_restriction": false,
+            "stock_limit": "34.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 48
+        },
+        {
+            "plu": 88570,
+            "name": "Свекла",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1159192-main/320x320.jpeg?updated_at=2025-03-05T10:57:49.752Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1159192-main/800x800.jpeg?updated_at=2025-03-05T10:57:49.752Z"
+                ]
+            },
+            "uom": "кг",
+            "step": "0.5",
+            "rating": {
+                "rating_average": 4.88,
+                "rates_count": 88251
+            },
+            "promo": null,
+            "prices": {
+                "regular": "95.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "Цена за 1 кг",
+            "has_age_restriction": false,
+            "stock_limit": "15.68",
+            "badges": [],
+            "initial_weight_step": "0.5",
+            "min_weight": "0.5",
+            "orange_loyalty_points": 67
+        },
+        {
+            "plu": 3965,
+            "name": "Кабачки",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1157181-main/320x320.jpeg?updated_at=2025-03-10T15:43:29.584Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1157181-main/800x800.jpeg?updated_at=2025-03-10T15:43:29.584Z",
+                    "https://photos.okolo.app/product/fd0507fb348963036fab45106b29c436-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/8a4e25ead416d758f3a199ae2e91d239-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "кг",
+            "step": "0.5",
+            "rating": {
+                "rating_average": 4.9,
+                "rates_count": 39353
+            },
+            "promo": null,
+            "prices": {
+                "regular": "149.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "Цена за 1 кг",
+            "has_age_restriction": false,
+            "stock_limit": "19.64",
+            "badges": [],
+            "initial_weight_step": "0.5",
+            "min_weight": "0.5",
+            "orange_loyalty_points": 70
+        },
+        {
+            "plu": 2139003,
+            "name": "Лук-репка Выгодно в сетке",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1161090-main/320x320.jpeg?updated_at=2025-03-10T09:03:45.738Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1161090-main/800x800.jpeg?updated_at=2025-03-10T09:03:45.738Z"
+                ]
+            },
+            "uom": "кг",
+            "step": "1.4",
+            "rating": {
+                "rating_average": 4.89,
+                "rates_count": 59619
+            },
+            "promo": null,
+            "prices": {
+                "regular": "71.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "Цена за 1 кг",
+            "has_age_restriction": false,
+            "stock_limit": "12.35",
+            "badges": [],
+            "initial_weight_step": "1.4",
+            "min_weight": "1.4",
+            "orange_loyalty_points": 50
+        },
+        {
+            "plu": 4117042,
+            "name": "Томаты Черри на ветке 250г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1211388-main/320x320.jpeg?updated_at=2025-04-16T08:19:51.285Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1211388-main/800x800.jpeg?updated_at=2025-04-16T08:19:51.285Z",
+                    "https://photos.okolo.app/product/1096e002e9431bc6048f834dd95bc827-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/eaefeef33b7a48b4d2a8051d62db6873-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.91,
+                "rates_count": 40583
+            },
+            "promo": null,
+            "prices": {
+                "regular": "169.99",
+                "discount": "149.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-11%",
+                    "bg_color": "#FFD700",
+                    "text_color": "#302E33"
+                }
+            ],
+            "property_clarification": "250 г",
+            "has_age_restriction": false,
+            "stock_limit": "42.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": null
+        },
+        {
+            "plu": 77001549,
+            "name": "Редис красный 500г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1212524-main/320x320.jpeg?updated_at=2025-03-10T14:49:13.647Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1212524-main/800x800.jpeg?updated_at=2025-03-10T14:49:13.647Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.87,
+                "rates_count": 32508
+            },
+            "promo": null,
+            "prices": {
+                "regular": "145.59",
+                "discount": "129.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-10%",
+                    "bg_color": "#FFD700",
+                    "text_color": "#302E33"
+                }
+            ],
+            "property_clarification": "500 г",
+            "has_age_restriction": false,
+            "stock_limit": "22.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": null
+        },
+        {
+            "plu": 3044397,
+            "name": "Чеснок свежий 100г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1162243-main/320x320.jpeg?updated_at=2025-03-12T07:08:37.911Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1162243-main/800x800.jpeg?updated_at=2025-03-12T07:08:37.911Z",
+                    "https://photos.okolo.app/product/8605b3afb8e3ca748e6c8f28352708fe-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.91,
+                "rates_count": 28268
+            },
+            "promo": null,
+            "prices": {
+                "regular": "85.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "100 г",
+            "has_age_restriction": false,
+            "stock_limit": "31.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 60
+        },
+        {
+            "plu": 3043871,
+            "name": "Зелень Global Village Ассорти лук, укроп и петрушка 70г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1162239-main/320x320.jpeg?updated_at=2025-03-10T18:32:07.315Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1162239-main/800x800.jpeg?updated_at=2025-03-10T18:32:07.315Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.86,
+                "rates_count": 39139
+            },
+            "promo": null,
+            "prices": {
+                "regular": "116.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "70 г",
+            "has_age_restriction": false,
+            "stock_limit": "11.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 70
+        },
+        {
+            "plu": 3064021,
+            "name": "Лук Global Village зеленый 100г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1162366-main/320x320.jpeg?updated_at=2025-03-10T18:54:10.881Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1162366-main/800x800.jpeg?updated_at=2025-03-10T18:54:10.881Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.91,
+                "rates_count": 41620
+            },
+            "promo": null,
+            "prices": {
+                "regular": "94.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "100 г",
+            "has_age_restriction": false,
+            "stock_limit": "13.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 66
+        },
+        {
+            "plu": 71029,
+            "name": "Укроп Global Village 100г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1158801-main/320x320.jpeg?updated_at=2025-03-10T18:48:29.121Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1158801-main/800x800.jpeg?updated_at=2025-03-10T18:48:29.121Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.9,
+                "rates_count": 38273
+            },
+            "promo": null,
+            "prices": {
+                "regular": "103.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "100 г",
+            "has_age_restriction": false,
+            "stock_limit": "13.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 70
+        }
+    ]
+}

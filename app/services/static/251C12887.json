@@ -1,0 +1,1384 @@
+{
+    "parent_id": "251C12887",
+    "name": "Молоко, сметана",
+    "filters": [
+        {
+            "name": "Цена, ₽",
+            "field_name": "price",
+            "filter_type": "range",
+            "list_values": null,
+            "range_min_val": "4.99",
+            "range_max_val": "249.99"
+        },
+        {
+            "name": "Бренд",
+            "field_name": "brand",
+            "filter_type": "list",
+            "list_values": {
+                "all": [
+                    "Домик в деревне",
+                    "Станция Молочная",
+                    "Сарафаново",
+                    "Простоквашино",
+                    "Nemoloko",
+                    "Алексеевское",
+                    "Искренне Ваш",
+                    "Чудо",
+                    "Parmalat",
+                    "РостАгроЭкспорт",
+                    "Красная цена",
+                    "Село Зеленое",
+                    "Liebendorf",
+                    "Брест-Литовск",
+                    "Вкуснотеево",
+                    "Лебедяньмолоко",
+                    "Мажитэль",
+                    "Му-У",
+                    "Растишка",
+                    "Рогачевъ",
+                    "ЭкоНива",
+                    "Экомилк",
+                    "Ehrmann",
+                    "Grand Cocktail",
+                    "J7",
+                    "Midori",
+                    "Mr. Сливкин",
+                    "Planto",
+                    "Альпийская Коровка",
+                    "Асеньевская ферма",
+                    "ДОБРИНО",
+                    "Из Молока Нашей Дойки",
+                    "М",
+                    "Правильное Молоко",
+                    "С Нашей Фермы",
+                    "Северная Долина",
+                    "Тысяча озер"
+                ],
+                "actual": null
+            },
+            "range_min_val": null,
+            "range_max_val": null
+        },
+        {
+            "name": "Со скидкой",
+            "field_name": "special_offers",
+            "filter_type": "toggle",
+            "list_values": {
+                "all": [
+                    "Скидка %",
+                    "% от количества"
+                ],
+                "actual": null
+            },
+            "range_min_val": null,
+            "range_max_val": null
+        }
+    ],
+    "products": [
+        {
+            "plu": 4123388,
+            "name": "Смузи J7 Полезный завтрак Яблоко-Ананас-Банан-Киви-Манго 300мл",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1212053-main/320x320.jpeg?updated_at=2025-03-10T14:40:24.006Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1212053-main/800x800.jpeg?updated_at=2025-03-10T14:40:24.006Z",
+                    "https://photos.okolo.app/product/67b4544ce3ad31a293d874047dfe26ed-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/f5bad37fd71ed4b63122ca70646e78fa-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/716a5d9bc2e493d1c561488b644ae4bf-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/ea693544c57a93c173aba06d8bdab8d0-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/39a6f3bd3c8da753125bbbaf64d8090c-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/b0a14cba94e070acdbf0a766d92ec965-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.91,
+                "rates_count": 4678
+            },
+            "promo": {
+                "rebate": {
+                    "units_to_activate": 3
+                }
+            },
+            "prices": {
+                "regular": "98.99",
+                "discount": null,
+                "cpd_promo_price": "79.99"
+            },
+            "labels": [
+                {
+                    "label": "% от 3 шт",
+                    "bg_color": "#FFD700",
+                    "text_color": "#302E33"
+                }
+            ],
+            "property_clarification": "300 мл",
+            "has_age_restriction": false,
+            "stock_limit": "9.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": null
+        },
+        {
+            "plu": 4069505,
+            "name": "Молоко Parmalat Comfort ультрапастеризованное безлактозное 3.5% БЗМЖ 1л",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1395160-main/320x320.jpeg?updated_at=2025-03-11T20:34:36.531Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1395160-main/800x800.jpeg?updated_at=2025-03-11T20:34:36.531Z",
+                    "https://photos.okolo.app/product/6d452a6da5125c387a365cca8a6a2eee-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/a89ba40abd689bb4d22cc8372aacac15-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/860140ca486ad2cbdaeb96c0f8d3fb1b-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/72f9453dc6adf9ae9a2c2e99ffd8eeff-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/c07b9929ee2974decb566db60aed8ec6-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.92,
+                "rates_count": 147
+            },
+            "promo": null,
+            "prices": {
+                "regular": "199.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "Без лактозы",
+                    "icon_url": null,
+                    "bg_color": "#8FAACB",
+                    "text_color": "#FFFFFF"
+                }
+            ],
+            "property_clarification": "1 л",
+            "has_age_restriction": false,
+            "stock_limit": "6.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 70
+        },
+        {
+            "plu": 3255206,
+            "name": "Молоко Домик в деревне пастеризованное 2.5% БЗМЖ 930мл",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1164532-main/320x320.jpeg?updated_at=2025-02-15T22:00:23.017Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1164532-main/800x800.jpeg?updated_at=2025-02-15T22:00:23.017Z",
+                    "https://photos.okolo.app/product/fb214b7c502182bed4eefef27b3557cf-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/d4bdbdffcb5b5b1e5241c58bce9d2943-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.93,
+                "rates_count": 31642
+            },
+            "promo": null,
+            "prices": {
+                "regular": "99.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "930 мл",
+            "has_age_restriction": false,
+            "stock_limit": "18.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 69
+        },
+        {
+            "plu": 2085981,
+            "name": "Молоко Простоквашино отборное пастеризованное 3.4-4.5% БЗМЖ 930мл",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1160401-main/320x320.jpeg?updated_at=2025-03-10T14:57:35.853Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1160401-main/800x800.jpeg?updated_at=2025-03-10T14:57:35.853Z",
+                    "https://photos.okolo.app/product/1c8826857e559807dedcc82ffdb0c63b-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/d4ee7042e2811298b114e8505e65d49e-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/39fdb5d83a97ee7ae64d9f722d0228fa-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.93,
+                "rates_count": 30425
+            },
+            "promo": null,
+            "prices": {
+                "regular": "119.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "930 мл",
+            "has_age_restriction": false,
+            "stock_limit": "11.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 70
+        },
+        {
+            "plu": 4066122,
+            "name": "Молоко Станция Молочная пастеризованное 2.5% БЗМЖ 900мл",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1206292-main/320x320.jpeg?updated_at=2025-04-22T08:15:02.365Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1206292-main/800x800.jpeg?updated_at=2025-04-22T08:15:02.365Z",
+                    "https://photos.okolo.app/product/d258ddc99b71fb812011c2873bb108e9-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.92,
+                "rates_count": 28833
+            },
+            "promo": null,
+            "prices": {
+                "regular": "79.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "900 мл",
+            "has_age_restriction": false,
+            "stock_limit": "16.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 55
+        },
+        {
+            "plu": 3665624,
+            "name": "Сметана Домик в деревне 15% БЗМЖ 300г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1188192-main/320x320.jpeg?updated_at=2025-03-10T15:38:36.320Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1188192-main/800x800.jpeg?updated_at=2025-03-10T15:38:36.320Z",
+                    "https://photos.okolo.app/product/53e97d1607686c0af4cb46e4b6891197-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/3f417255e5606c92682eca30d8f3dfe1-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/c5395d952d6c5f704649ea32ac1d7402-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/3c59bdcb94c82c5cb9574b7256a184c9-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/65aecde55e161cf240ddfa748feac695-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/ad9e0871356d6848e9b5cd9b28343de7-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/cf990515bee7c833626966c7c647b573-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.93,
+                "rates_count": 15270
+            },
+            "promo": null,
+            "prices": {
+                "regular": "111.99",
+                "discount": "99.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-10%",
+                    "bg_color": "#FFD700",
+                    "text_color": "#302E33"
+                }
+            ],
+            "property_clarification": "300 г",
+            "has_age_restriction": false,
+            "stock_limit": "18.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": null
+        },
+        {
+            "plu": 4121609,
+            "name": "Сметана Простоквашино 20% БЗМЖ 300г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1211927-main/320x320.jpeg?updated_at=2025-03-10T14:57:36.400Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1211927-main/800x800.jpeg?updated_at=2025-03-10T14:57:36.400Z",
+                    "https://photos.okolo.app/product/e104cfb73b678061ba63fb2e04cd8799-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/8a3681ec346b16918fa071fa97dbe902-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/8439e63c62a71680f7e8e73bbb3797bb-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/8e0fb0808135fbe8a581747d4539bf48-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/b5258b04adfc2aa50ab54fb536acbed9-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.94,
+                "rates_count": 22603
+            },
+            "promo": null,
+            "prices": {
+                "regular": "122.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "300 г",
+            "has_age_restriction": false,
+            "stock_limit": "11.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 70
+        },
+        {
+            "plu": 3443625,
+            "name": "Молоко Му-у ультрапастеризованное 3.2% БЗМЖ 925мл",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1172562-main/320x320.jpeg?updated_at=2025-02-24T07:58:12.620Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1172562-main/800x800.jpeg?updated_at=2025-02-24T07:58:12.620Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.93,
+                "rates_count": 13261
+            },
+            "promo": null,
+            "prices": {
+                "regular": "119.99",
+                "discount": "104.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-12%",
+                    "bg_color": "#FFD700",
+                    "text_color": "#302E33"
+                }
+            ],
+            "property_clarification": "925 мл",
+            "has_age_restriction": false,
+            "stock_limit": "77.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": null
+        },
+        {
+            "plu": 4025408,
+            "name": "Сметана Станция Молочная 15% БЗМЖ 300г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1201792-main/320x320.jpeg?updated_at=2025-03-03T17:00:13.224Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1201792-main/800x800.jpeg?updated_at=2025-03-03T17:00:13.224Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.92,
+                "rates_count": 16063
+            },
+            "promo": null,
+            "prices": {
+                "regular": "79.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "300 г",
+            "has_age_restriction": false,
+            "stock_limit": "34.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 55
+        },
+        {
+            "plu": 4262697,
+            "name": "Сметана Брест-Литовск 15% БЗМЖ 300г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1482895-main/320x320.jpeg?updated_at=2024-12-11T07:25:34.963Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1482895-main/800x800.jpeg?updated_at=2024-12-11T07:25:34.963Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.92,
+                "rates_count": 13067
+            },
+            "promo": null,
+            "prices": {
+                "regular": "94.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "300 г",
+            "has_age_restriction": false,
+            "stock_limit": "29.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 66
+        },
+        {
+            "plu": 4025410,
+            "name": "Сметана Станция Молочная 20% БЗМЖ 300г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1201794-main/320x320.jpeg?updated_at=2025-03-03T17:00:13.239Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1201794-main/800x800.jpeg?updated_at=2025-03-03T17:00:13.239Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.92,
+                "rates_count": 16442
+            },
+            "promo": null,
+            "prices": {
+                "regular": "89.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "300 г",
+            "has_age_restriction": false,
+            "stock_limit": "14.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 62
+        },
+        {
+            "plu": 3979649,
+            "name": "Сливки Станция Молочная стерилизованные 10% БЗМЖ 500мл",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1198507-main/320x320.jpeg?updated_at=2025-02-17T08:25:33.847Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1198507-main/800x800.jpeg?updated_at=2025-02-17T08:25:33.847Z",
+                    "https://photos.okolo.app/product/a7cee964c5a10aa2494e55b8f81ca8d3-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/b69b08b4afc7a331d7062c14337d2b80-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.92,
+                "rates_count": 15518
+            },
+            "promo": {
+                "rebate": {
+                    "units_to_activate": 2
+                }
+            },
+            "prices": {
+                "regular": "149.99",
+                "discount": null,
+                "cpd_promo_price": "119.99"
+            },
+            "labels": [
+                {
+                    "label": "% от 2 шт",
+                    "bg_color": "#FFD700",
+                    "text_color": "#302E33"
+                }
+            ],
+            "property_clarification": "500 мл",
+            "has_age_restriction": false,
+            "stock_limit": "22.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": null
+        },
+        {
+            "plu": 3378621,
+            "name": "Молоко Красная Цена ультрапастеризованное 2.5% БЗМЖ 0.97л",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1167751-main/320x320.jpeg?updated_at=2025-02-24T07:58:12.527Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1167751-main/800x800.jpeg?updated_at=2025-02-24T07:58:12.527Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.9,
+                "rates_count": 12992
+            },
+            "promo": null,
+            "prices": {
+                "regular": "84.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "970 мл",
+            "has_age_restriction": false,
+            "stock_limit": "15.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 59
+        },
+        {
+            "plu": 4391173,
+            "name": "Молоко Домик в деревне пастеризованное 3.2% БЗМЖ 1.44кг",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1850946-main/320x320.jpeg?updated_at=2025-06-03T19:59:41.139Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1850946-main/800x800.jpeg?updated_at=2025-06-03T19:59:41.139Z",
+                    "https://photos.okolo.app/product/4d7ff872cae00721fcad3ec9d58ce457-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/bf7cf53499314d7317675410ac86ec54-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/51d182a417b3a6632d8a5415dcb6c15f-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/19581f857bf9e7d369a782809b70ab07-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/1ee6643632cc922c3a45616d6e680852-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.93,
+                "rates_count": 18596
+            },
+            "promo": null,
+            "prices": {
+                "regular": "149.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "1.4 л",
+            "has_age_restriction": false,
+            "stock_limit": "12.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 70
+        },
+        {
+            "plu": 3448458,
+            "name": "Сливки Красная Цена 10% БЗМЖ 200мл",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1173036-main/320x320.jpeg?updated_at=2025-03-06T06:54:17.471Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1173036-main/800x800.jpeg?updated_at=2025-03-06T06:54:17.471Z",
+                    "https://photos.okolo.app/product/66641881eb78f9bff0fc3233bce668e1-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.92,
+                "rates_count": 28127
+            },
+            "promo": null,
+            "prices": {
+                "regular": "41.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "200 мл",
+            "has_age_restriction": false,
+            "stock_limit": "40.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 29
+        },
+        {
+            "plu": 2069612,
+            "name": "Молоко Красная Цена ультрапастеризованное 3.2% БЗМЖ 970мл",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1160137-main/320x320.jpeg?updated_at=2025-03-10T15:38:36.479Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1160137-main/800x800.jpeg?updated_at=2025-03-10T15:38:36.479Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.91,
+                "rates_count": 14127
+            },
+            "promo": null,
+            "prices": {
+                "regular": "84.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "970 мл",
+            "has_age_restriction": false,
+            "stock_limit": "34.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 59
+        },
+        {
+            "plu": 4089125,
+            "name": "Молоко Станция Молочная 3.3-6.0% БЗМЖ 930мл",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1208312-main/320x320.jpeg?updated_at=2025-02-13T13:54:48.699Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1208312-main/800x800.jpeg?updated_at=2025-02-13T13:54:48.699Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.9,
+                "rates_count": 13667
+            },
+            "promo": null,
+            "prices": {
+                "regular": "89.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "930 мл",
+            "has_age_restriction": false,
+            "stock_limit": "20.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 62
+        },
+        {
+            "plu": 3376242,
+            "name": "Молоко сгущенное Рогачевъ с сахаром 8.5% БЗМЖ 380г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1167595-main/320x320.jpeg?updated_at=2025-03-10T15:38:30.841Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1167595-main/800x800.jpeg?updated_at=2025-03-10T15:38:30.841Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.93,
+                "rates_count": 21510
+            },
+            "promo": null,
+            "prices": {
+                "regular": "189.99",
+                "discount": "169.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-10%",
+                    "bg_color": "#FFD700",
+                    "text_color": "#302E33"
+                }
+            ],
+            "property_clarification": "380 г",
+            "has_age_restriction": false,
+            "stock_limit": "57.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": null
+        },
+        {
+            "plu": 3443624,
+            "name": "Молоко Му-у ультрапастеризованное 2.5% БЗМЖ 925мл",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1172561-main/320x320.jpeg?updated_at=2025-02-24T07:58:12.492Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1172561-main/800x800.jpeg?updated_at=2025-02-24T07:58:12.492Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.92,
+                "rates_count": 8803
+            },
+            "promo": null,
+            "prices": {
+                "regular": "109.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "925 мл",
+            "has_age_restriction": false,
+            "stock_limit": "69.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 70
+        },
+        {
+            "plu": 4045383,
+            "name": "Молоко Простоквашино безлактозное ультрапастеризованное 1.5% БЗМЖ 0.97л",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1203405-main/320x320.jpeg?updated_at=2025-06-09T14:05:47.100Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1203405-main/800x800.jpeg?updated_at=2025-06-09T14:05:47.100Z",
+                    "https://photos.okolo.app/product/1a2497320161d31839cdca9516245b42-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.91,
+                "rates_count": 6352
+            },
+            "promo": null,
+            "prices": {
+                "regular": "159.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "Без лактозы",
+                    "icon_url": null,
+                    "bg_color": "#8FAACB",
+                    "text_color": "#FFFFFF"
+                }
+            ],
+            "property_clarification": "970 мл",
+            "has_age_restriction": false,
+            "stock_limit": "18.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 70
+        },
+        {
+            "plu": 3142744,
+            "name": "Сметана Простоквашино 15% БЗМЖ 180г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1162602-main/320x320.jpeg?updated_at=2024-12-11T07:30:27.899Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1162602-main/800x800.jpeg?updated_at=2024-12-11T07:30:27.899Z",
+                    "https://photos.okolo.app/product/c92406bfb3692153c2b746c8264b30db-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/7e21288557521964ca4795e409c651ee-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/74029274044277ced49b724fd39ec2e0-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/859dbebfd8234b12ccdf5238e8308d0d-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/43b62fc2ecee1e7aa1ea9b806e5eb2aa-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.92,
+                "rates_count": 11834
+            },
+            "promo": null,
+            "prices": {
+                "regular": "74.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "180 г",
+            "has_age_restriction": false,
+            "stock_limit": "14.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 52
+        },
+        {
+            "plu": 3985712,
+            "name": "Молоко Экомилк цельное отборное пастеризованное 3.4-4.5% БЗМЖ 900мл",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1198958-main/320x320.jpeg?updated_at=2025-01-31T14:28:07.339Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1198958-main/800x800.jpeg?updated_at=2025-01-31T14:28:07.339Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.93,
+                "rates_count": 12927
+            },
+            "promo": null,
+            "prices": {
+                "regular": "98.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "900 мл",
+            "has_age_restriction": false,
+            "stock_limit": "13.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 69
+        },
+        {
+            "plu": 4121607,
+            "name": "Сметана Простоквашино 25% БЗМЖ 300г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1211926-main/320x320.jpeg?updated_at=2025-02-24T08:06:28.476Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1211926-main/800x800.jpeg?updated_at=2025-02-24T08:06:28.476Z",
+                    "https://photos.okolo.app/product/142e23b64a4159e9980cda0c6ed6d024-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/f9d05d9f25341d26d5b493da0bb3d177-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/284c042a11a28e77c77630a24388cad4-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/9aa5761da72a8e2f696b83c81372f7fb-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/1d6a20404ee89092e3a4d21edef023f1-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/3b0ebf1499a5739750b0d8aabd37888a-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/e3fedfaab0908f27529a6f449f2ed18a-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/9cb89739c65ea453b02aa1c3ad4f4e06-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/5bfaba43e79dc5cea191ebf349fdf002-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.94,
+                "rates_count": 11842
+            },
+            "promo": null,
+            "prices": {
+                "regular": "134.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "300 г",
+            "has_age_restriction": false,
+            "stock_limit": "9.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 70
+        },
+        {
+            "plu": 4308790,
+            "name": "Молоко Сарафаново безлактозное ультрапастеризованное 1.5% БЗМЖ 970мл",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1562032-main/320x320.jpeg?updated_at=2024-11-12T15:03:13.066Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1562032-main/800x800.jpeg?updated_at=2024-11-12T15:03:13.066Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.9,
+                "rates_count": 5651
+            },
+            "promo": null,
+            "prices": {
+                "regular": "129.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "Без лактозы",
+                    "icon_url": null,
+                    "bg_color": "#8FAACB",
+                    "text_color": "#FFFFFF"
+                }
+            ],
+            "property_clarification": "970 мл",
+            "has_age_restriction": false,
+            "stock_limit": "7.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 70
+        },
+        {
+            "plu": 4263705,
+            "name": "Сливки Станция Молочная ультрапастеризованные 20% БЗМЖ 200мл",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1496661-main/320x320.jpeg?updated_at=2024-11-26T13:55:32.232Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1496661-main/800x800.jpeg?updated_at=2024-11-26T13:55:32.232Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.91,
+                "rates_count": 9661
+            },
+            "promo": null,
+            "prices": {
+                "regular": "89.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "200 мл",
+            "has_age_restriction": false,
+            "stock_limit": "22.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 62
+        },
+        {
+            "plu": 3332809,
+            "name": "Молоко сгущенное Алексеевское цельное с сахаром 8.5% БЗМЖ 270г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1165909-main/320x320.jpeg?updated_at=2025-03-10T15:38:30.953Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1165909-main/800x800.jpeg?updated_at=2025-03-10T15:38:30.953Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.93,
+                "rates_count": 9659
+            },
+            "promo": null,
+            "prices": {
+                "regular": "149.99",
+                "discount": "119.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-20%",
+                    "bg_color": "#FFD700",
+                    "text_color": "#302E33"
+                }
+            ],
+            "property_clarification": "270 г",
+            "has_age_restriction": false,
+            "stock_limit": "32.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": null
+        },
+        {
+            "plu": 37461,
+            "name": "Молоко М ультрапастеризованное 3.2% БЗМЖ 950г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1158024-main/320x320.jpeg?updated_at=2024-06-13T20:43:55.739Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1158024-main/800x800.jpeg?updated_at=2024-06-13T20:43:55.739Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.93,
+                "rates_count": 5766
+            },
+            "promo": null,
+            "prices": {
+                "regular": "114.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "950 мл",
+            "has_age_restriction": false,
+            "stock_limit": "13.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 70
+        },
+        {
+            "plu": 4221356,
+            "name": "Сметана Сарафаново 15% БЗМЖ 300г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1451531-main/320x320.jpeg?updated_at=2024-12-23T16:03:21.065Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1451531-main/800x800.jpeg?updated_at=2024-12-23T16:03:21.065Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.93,
+                "rates_count": 12914
+            },
+            "promo": null,
+            "prices": {
+                "regular": "109.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "300 мл",
+            "has_age_restriction": false,
+            "stock_limit": "19.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 70
+        },
+        {
+            "plu": 3651187,
+            "name": "Сметана Ростагроэкспорт 20% БЗМЖ 320г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1186180-main/320x320.jpeg?updated_at=2025-03-25T05:52:36.872Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1186180-main/800x800.jpeg?updated_at=2025-03-25T05:52:36.872Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.93,
+                "rates_count": 7587
+            },
+            "promo": null,
+            "prices": {
+                "regular": "132.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "320 мл",
+            "has_age_restriction": false,
+            "stock_limit": "27.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 70
+        },
+        {
+            "plu": 23077,
+            "name": "Сывороточный коктейль Мажитэль Персик-Маракуйя 0.05% БЗМЖ 950г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1157726-main/320x320.jpeg?updated_at=2025-02-21T12:32:43.114Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1157726-main/800x800.jpeg?updated_at=2025-02-21T12:32:43.114Z",
+                    "https://photos.okolo.app/product/9d139eb2816617500db4d0e567ee65c3-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/3d851bb6d45b73fae5236b4f82fe9445-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/574d1b5e51fd38b0b66fa974ad24fc82-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/9339c74839f669cdb94d4c8aa33428b4-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/15070edb044b534e1f26cdee81780005-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.93,
+                "rates_count": 8901
+            },
+            "promo": null,
+            "prices": {
+                "regular": "149.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "950 мл",
+            "has_age_restriction": false,
+            "stock_limit": "12.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 70
+        },
+        {
+            "plu": 3979650,
+            "name": "Сливки Станция Молочная стерилизованные 20% БЗМЖ 500мл",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1198508-main/320x320.jpeg?updated_at=2025-01-31T14:37:48.544Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1198508-main/800x800.jpeg?updated_at=2025-01-31T14:37:48.544Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.92,
+                "rates_count": 7719
+            },
+            "promo": null,
+            "prices": {
+                "regular": "222.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "500 мл",
+            "has_age_restriction": false,
+            "stock_limit": "22.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 140
+        },
+        {
+            "plu": 4378543,
+            "name": "Сметана Простоквашино 15% БЗМЖ 390г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1834514-main/320x320.jpeg?updated_at=2025-03-11T17:35:12.916Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1834514-main/800x800.jpeg?updated_at=2025-03-11T17:35:12.916Z",
+                    "https://photos.okolo.app/product/08964156edbff54a37686587aacb452a-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/a0ae710c4cb2669f602dbd2f2ee2128e-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.93,
+                "rates_count": 11274
+            },
+            "promo": null,
+            "prices": {
+                "regular": "139.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "390 г",
+            "has_age_restriction": false,
+            "stock_limit": "3.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 70
+        },
+        {
+            "plu": 4262694,
+            "name": "Сметана Брест-Литовск 20% БЗМЖ 300г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1483106-main/320x320.jpeg?updated_at=2024-12-23T16:41:36.203Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1483106-main/800x800.jpeg?updated_at=2024-12-23T16:41:36.203Z",
+                    "https://photos.okolo.app/product/0ed385654598dc776dff2b2802c78c90-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.92,
+                "rates_count": 8254
+            },
+            "promo": null,
+            "prices": {
+                "regular": "123.19",
+                "discount": "109.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-10%",
+                    "bg_color": "#FFD700",
+                    "text_color": "#302E33"
+                }
+            ],
+            "property_clarification": "300 г",
+            "has_age_restriction": false,
+            "stock_limit": "22.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": null
+        },
+        {
+            "plu": 3485660,
+            "name": "Молоко С Нашей Фермы ультрапастеризованное 3.2% БЗМЖ 925мл",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1175971-main/320x320.jpeg?updated_at=2025-03-10T15:38:36.425Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1175971-main/800x800.jpeg?updated_at=2025-03-10T15:38:36.425Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.92,
+                "rates_count": 9987
+            },
+            "promo": null,
+            "prices": {
+                "regular": "99.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "925 мл",
+            "has_age_restriction": false,
+            "stock_limit": "27.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 69
+        },
+        {
+            "plu": 3328526,
+            "name": "Молоко Село Зеленое ультрапастеризованное 2.5% БЗМЖ 950мл",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1165743-main/320x320.jpeg?updated_at=2024-12-24T14:28:27.756Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1165743-main/800x800.jpeg?updated_at=2024-12-24T14:28:27.756Z",
+                    "https://photos.okolo.app/product/daebc46185c9a3f7a0683f0a1d529f7e-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.91,
+                "rates_count": 5585
+            },
+            "promo": {
+                "rebate": {
+                    "units_to_activate": 2
+                }
+            },
+            "prices": {
+                "regular": "95.19",
+                "discount": "84.99",
+                "cpd_promo_price": "79.99"
+            },
+            "labels": [
+                {
+                    "label": "% от 2 шт",
+                    "bg_color": "#FFD700",
+                    "text_color": "#302E33"
+                }
+            ],
+            "property_clarification": "950 мл",
+            "has_age_restriction": false,
+            "stock_limit": "12.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": null
+        },
+        {
+            "plu": 42876,
+            "name": "Молочный коктейль Чудо Шоколад 3% БЗМЖ 0.2л",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1158133-main/320x320.jpeg?updated_at=2025-06-02T13:39:05.303Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1158133-main/800x800.jpeg?updated_at=2025-06-02T13:39:05.303Z",
+                    "https://photos.okolo.app/product/d8d1e834a66c8c8c14a64b6a41b90ca4-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/39770bbd3e2773c798e51ce026438c74-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/7779dfe89d15af2af025ef48e58e5ce2-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/8dd7db08c6370368cb3a525be49c4e09-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/a946a244223750029bc8477aac4b30ff-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.93,
+                "rates_count": 19052
+            },
+            "promo": null,
+            "prices": {
+                "regular": "64.99",
+                "discount": "56.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-12%",
+                    "bg_color": "#FFD700",
+                    "text_color": "#302E33"
+                }
+            ],
+            "property_clarification": "200 мл",
+            "has_age_restriction": false,
+            "stock_limit": "46.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": null
+        }
+    ]
+}
