@@ -196,10 +196,11 @@ def parse_product_info(product_id: str):
     product_info = ''
     response = requests.get(url, headers=headers, params=params)
 
-    if response.status_code == 200:
-        product_info = response.json()
-    else:
-        print(f"Ошибка запроса: {response.status_code}")
+    if True:
+        with open(f'app/services/static/{product_id}.json', 'r', encoding='utf-8') as file:
+            product_info = json.load(file)
+    # else:
+    #     print(f"Ошибка запроса: {response.status_code}")
 
     return product_info
 
