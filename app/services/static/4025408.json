@@ -1,0 +1,105 @@
+{
+    "plu": 4025408,
+    "name": "Сметана Станция Молочная 15% БЗМЖ 300г",
+    "image_links": {
+        "small": [
+            "https://photos.okolo.app/product/1201792-main/320x320.jpeg?updated_at=2025-03-03T17:00:13.224Z"
+        ],
+        "normal": [
+            "https://photos.okolo.app/product/1201792-main/800x800.jpeg?updated_at=2025-03-03T17:00:13.224Z"
+        ]
+    },
+    "uom": "шт",
+    "step": "1.0",
+    "rating": {
+        "rating_average": 4.92,
+        "rates_count": 16063
+    },
+    "promo": null,
+    "prices": [
+        {
+            "value": "89.99",
+            "placement_type": "regular_primary"
+        }
+    ],
+    "labels": null,
+    "property_clarification": "300 г",
+    "has_age_restriction": false,
+    "stock_limit": "4.00",
+    "initial_weight_step": "1.0",
+    "min_weight": "1.0",
+    "description": null,
+    "description_md": null,
+    "description_html": null,
+    "nutrients": [
+        {
+            "value": "2.6",
+            "text": "белки"
+        },
+        {
+            "value": "15.0",
+            "text": "жиры"
+        },
+        {
+            "value": "4.0",
+            "text": "углеводы"
+        },
+        {
+            "value": "160.0",
+            "text": "ккал"
+        }
+    ],
+    "attributes": [
+        {
+            "name": "Вес",
+            "value": "0.3",
+            "uom": "кг"
+        },
+        {
+            "name": "Срок хранения",
+            "value": "20 дней",
+            "uom": null
+        },
+        {
+            "name": "Условия хранения",
+            "value": "при температуре (4±2)°С",
+            "uom": null
+        },
+        {
+            "name": "Бренд",
+            "value": "Станция Молочная",
+            "uom": null
+        },
+        {
+            "name": "Страна производства",
+            "value": "Россия",
+            "uom": null
+        },
+        {
+            "name": "Белки",
+            "value": "2.6",
+            "uom": "г"
+        },
+        {
+            "name": "Жиры",
+            "value": "15.0",
+            "uom": "г"
+        },
+        {
+            "name": "Углеводы",
+            "value": "4.0",
+            "uom": "г"
+        },
+        {
+            "name": "Энергетическая ценность",
+            "value": "160.0",
+            "uom": "ккал"
+        }
+    ],
+    "ingredients": "изготовлен из нормализованных сливок с испольхованием закваски",
+    "ingredients_html": null,
+    "is_available": true,
+    "is_various_manufacturers": false,
+    "badges": [],
+    "orange_loyalty_points": 62
+}

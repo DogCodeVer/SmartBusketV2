@@ -1,0 +1,122 @@
+{
+    "plu": 3979649,
+    "name": "Сливки Станция Молочная стерилизованные 10% БЗМЖ 500мл",
+    "image_links": {
+        "small": [
+            "https://photos.okolo.app/product/1198507-main/320x320.jpeg?updated_at=2025-02-17T08:25:33.847Z"
+        ],
+        "normal": [
+            "https://photos.okolo.app/product/1198507-main/800x800.jpeg?updated_at=2025-02-17T08:25:33.847Z",
+            "https://photos.okolo.app/product/a7cee964c5a10aa2494e55b8f81ca8d3-additional/800x800.jpeg",
+            "https://photos.okolo.app/product/b69b08b4afc7a331d7062c14337d2b80-additional/800x800.jpeg"
+        ]
+    },
+    "uom": "шт",
+    "step": "1.0",
+    "rating": {
+        "rating_average": 4.92,
+        "rates_count": 15518
+    },
+    "promo": {
+        "rebate": {
+            "units_to_activate": 2
+        }
+    },
+    "prices": [
+        {
+            "value": "129.99",
+            "price_signature": " от 2 шт",
+            "placement_type": "promotional_primary"
+        },
+        {
+            "value": "144.99",
+            "placement_type": "regular_secondary"
+        }
+    ],
+    "labels": [
+        {
+            "label": "% от 2 шт",
+            "bg_color": "#FFD700",
+            "text_color": "#302E33"
+        }
+    ],
+    "property_clarification": "500 мл",
+    "has_age_restriction": false,
+    "stock_limit": "9.00",
+    "initial_weight_step": "1.0",
+    "min_weight": "1.0",
+    "description": null,
+    "description_md": null,
+    "description_html": null,
+    "nutrients": [
+        {
+            "value": "2.6",
+            "text": "белки"
+        },
+        {
+            "value": "10.0",
+            "text": "жиры"
+        },
+        {
+            "value": "4.5",
+            "text": "углеводы"
+        },
+        {
+            "value": "210.0",
+            "text": "ккал"
+        }
+    ],
+    "attributes": [
+        {
+            "name": "Вес",
+            "value": "0.5",
+            "uom": "кг"
+        },
+        {
+            "name": "Срок хранения",
+            "value": "5 месяцев",
+            "uom": null
+        },
+        {
+            "name": "Условия хранения",
+            "value": "при температуре от +2°С до +4°С",
+            "uom": null
+        },
+        {
+            "name": "Бренд",
+            "value": "Станция Молочная",
+            "uom": null
+        },
+        {
+            "name": "Страна производства",
+            "value": "Россия",
+            "uom": null
+        },
+        {
+            "name": "Белки",
+            "value": "2.6",
+            "uom": "г"
+        },
+        {
+            "name": "Жиры",
+            "value": "10.0",
+            "uom": "г"
+        },
+        {
+            "name": "Углеводы",
+            "value": "4.5",
+            "uom": "г"
+        },
+        {
+            "name": "Энергетическая ценность",
+            "value": "210.0",
+            "uom": "ккал"
+        }
+    ],
+    "ingredients": "сливки нормализованные",
+    "ingredients_html": null,
+    "is_available": true,
+    "is_various_manufacturers": true,
+    "badges": [],
+    "orange_loyalty_points": null
+}

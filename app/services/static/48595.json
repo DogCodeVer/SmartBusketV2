@@ -1,0 +1,110 @@
+{
+    "plu": 48595,
+    "name": "Нектарины",
+    "image_links": {
+        "small": [
+            "https://photos.okolo.app/product/1158305-main/320x320.jpeg?updated_at=2025-03-10T09:04:02.179Z"
+        ],
+        "normal": [
+            "https://photos.okolo.app/product/1158305-main/800x800.jpeg?updated_at=2025-03-10T09:04:02.179Z"
+        ]
+    },
+    "uom": "кг",
+    "step": "0.3",
+    "rating": {
+        "rating_average": 4.67,
+        "rates_count": 24496
+    },
+    "promo": null,
+    "prices": [
+        {
+            "value": "259.99",
+            "placement_type": "promotional_primary"
+        },
+        {
+            "value": "299.99",
+            "placement_type": "regular_secondary"
+        }
+    ],
+    "labels": [
+        {
+            "label": "-13%",
+            "bg_color": "#FFD700",
+            "text_color": "#302E33"
+        }
+    ],
+    "property_clarification": "Цена за 1 кг",
+    "has_age_restriction": false,
+    "stock_limit": "2.04",
+    "initial_weight_step": "0.3",
+    "min_weight": "0.3",
+    "description": null,
+    "description_md": null,
+    "description_html": null,
+    "nutrients": [
+        {
+            "value": "1.1",
+            "text": "белки"
+        },
+        {
+            "value": "0.3",
+            "text": "жиры"
+        },
+        {
+            "value": "11.0",
+            "text": "углеводы"
+        },
+        {
+            "value": "44.0",
+            "text": "ккал"
+        }
+    ],
+    "attributes": [
+        {
+            "name": "Вес",
+            "value": "1.0",
+            "uom": "кг"
+        },
+        {
+            "name": "Срок хранения",
+            "value": "5 дней",
+            "uom": null
+        },
+        {
+            "name": "Условия хранения",
+            "value": "при температуре от 0°С до 0°С",
+            "uom": null
+        },
+        {
+            "name": "Страна производства",
+            "value": "Россия",
+            "uom": null
+        },
+        {
+            "name": "Белки",
+            "value": "1.1",
+            "uom": "г"
+        },
+        {
+            "name": "Жиры",
+            "value": "0.3",
+            "uom": "г"
+        },
+        {
+            "name": "Углеводы",
+            "value": "11.0",
+            "uom": "г"
+        },
+        {
+            "name": "Энергетическая ценность",
+            "value": "44.0",
+            "uom": "ккал"
+        }
+    ],
+    "ingredients": "нектарины",
+    "ingredients_html": null,
+    "is_available": true,
+    "is_various_manufacturers": true,
+    "badges": [],
+    "orange_loyalty_points": null
+}

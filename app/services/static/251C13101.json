@@ -1,0 +1,921 @@
+{
+    "parent_id": "251C12886",
+    "name": "Фрукты, ягоды",
+    "filters": [
+        {
+            "name": "Цена, ₽",
+            "field_name": "price",
+            "filter_type": "range",
+            "list_values": null,
+            "range_min_val": "84.99",
+            "range_max_val": "399.99"
+        },
+        {
+            "name": "Бренд",
+            "field_name": "brand",
+            "filter_type": "list",
+            "list_values": {
+                "all": [
+                    "Global Village",
+                    "Без бренда",
+                    "Artfruit",
+                    "Выгодно и Удобно",
+                    "Красная цена",
+                    "Сварог"
+                ],
+                "actual": null
+            },
+            "range_min_val": null,
+            "range_max_val": null
+        },
+        {
+            "name": "Со скидкой",
+            "field_name": "special_offers",
+            "filter_type": "toggle",
+            "list_values": {
+                "all": [
+                    "Скидка %"
+                ],
+                "actual": null
+            },
+            "range_min_val": null,
+            "range_max_val": null
+        }
+    ],
+    "products": [
+        {
+            "plu": 48595,
+            "name": "Нектарины",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1158305-main/320x320.jpeg?updated_at=2025-03-10T09:04:02.179Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1158305-main/800x800.jpeg?updated_at=2025-03-10T09:04:02.179Z"
+                ]
+            },
+            "uom": "кг",
+            "step": "0.3",
+            "rating": {
+                "rating_average": 4.67,
+                "rates_count": 24496
+            },
+            "promo": null,
+            "prices": {
+                "regular": "299.99",
+                "discount": "259.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-13%",
+                    "bg_color": "#FFD700",
+                    "text_color": "#302E33"
+                }
+            ],
+            "property_clarification": "Цена за 1 кг",
+            "has_age_restriction": false,
+            "stock_limit": "2.04",
+            "badges": [],
+            "initial_weight_step": "0.3",
+            "min_weight": "0.3",
+            "orange_loyalty_points": null
+        },
+        {
+            "plu": 49874,
+            "name": "Персики",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1158369-main/320x320.jpeg?updated_at=2025-01-10T10:03:06.353Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1158369-main/800x800.jpeg?updated_at=2025-01-10T10:03:06.353Z"
+                ]
+            },
+            "uom": "кг",
+            "step": "0.3",
+            "rating": {
+                "rating_average": 4.72,
+                "rates_count": 18003
+            },
+            "promo": null,
+            "prices": {
+                "regular": "289.99",
+                "discount": "257.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-11%",
+                    "bg_color": "#FFD700",
+                    "text_color": "#302E33"
+                }
+            ],
+            "property_clarification": "Цена за 1 кг",
+            "has_age_restriction": false,
+            "stock_limit": "3.45",
+            "badges": [],
+            "initial_weight_step": "0.3",
+            "min_weight": "0.3",
+            "orange_loyalty_points": null
+        },
+        {
+            "plu": 516,
+            "name": "Абрикосы",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1157074-main/320x320.jpeg?updated_at=2024-08-23T14:36:17.642Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1157074-main/800x800.jpeg?updated_at=2024-08-23T14:36:17.642Z"
+                ]
+            },
+            "uom": "кг",
+            "step": "0.3",
+            "rating": {
+                "rating_average": 4.59,
+                "rates_count": 25844
+            },
+            "promo": null,
+            "prices": {
+                "regular": "369.99",
+                "discount": "199.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-45%",
+                    "bg_color": "#FFD700",
+                    "text_color": "#302E33"
+                }
+            ],
+            "property_clarification": "Цена за 1 кг",
+            "has_age_restriction": false,
+            "stock_limit": "11.12",
+            "badges": [],
+            "initial_weight_step": "0.3",
+            "min_weight": "0.3",
+            "orange_loyalty_points": null
+        },
+        {
+            "plu": 807,
+            "name": "Яблоко сезонное",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1157088-main/320x320.jpeg?updated_at=2025-01-27T18:10:12.012Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1157088-main/800x800.jpeg?updated_at=2025-01-27T18:10:12.012Z",
+                    "https://photos.okolo.app/product/b9496703e1904141c23582c8a4eba647-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/61c5ff0d9f9ebc3f8f31a31c4fafb8af-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/e7eeafd9be3d98625f92a7b5c17db4f5-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "кг",
+            "step": "0.5",
+            "rating": {
+                "rating_average": 4.89,
+                "rates_count": 176842
+            },
+            "promo": null,
+            "prices": {
+                "regular": "97.49",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "Цена за 1 кг",
+            "has_age_restriction": false,
+            "stock_limit": "9.24",
+            "badges": [],
+            "initial_weight_step": "0.5",
+            "min_weight": "0.5",
+            "orange_loyalty_points": 68
+        },
+        {
+            "plu": 3294954,
+            "name": "Лимоны",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1165274-main/320x320.jpeg?updated_at=2025-03-12T07:06:20.689Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1165274-main/800x800.jpeg?updated_at=2025-03-12T07:06:20.689Z",
+                    "https://photos.okolo.app/product/c35d04fb070b78653ea8ddce0c615e87-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/8471a791c57904b3b343021f5b30c9b7-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "кг",
+            "step": "0.2",
+            "rating": {
+                "rating_average": 4.9,
+                "rates_count": 182853
+            },
+            "promo": null,
+            "prices": {
+                "regular": "209.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "Цена за 1 кг",
+            "has_age_restriction": false,
+            "stock_limit": "15.43",
+            "badges": [],
+            "initial_weight_step": "0.2",
+            "min_weight": "0.2",
+            "orange_loyalty_points": 140
+        },
+        {
+            "plu": 809,
+            "name": "Бананы Global Village",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1157089-main/320x320.jpeg?updated_at=2025-03-10T15:43:26.918Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1157089-main/800x800.jpeg?updated_at=2025-03-10T15:43:26.918Z"
+                ]
+            },
+            "uom": "кг",
+            "step": "0.5",
+            "rating": {
+                "rating_average": 4.9,
+                "rates_count": 398794
+            },
+            "promo": null,
+            "prices": {
+                "regular": "156.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "Цена за 1 кг",
+            "has_age_restriction": false,
+            "stock_limit": "27.88",
+            "badges": [],
+            "initial_weight_step": "0.5",
+            "min_weight": "0.5",
+            "orange_loyalty_points": 70
+        },
+        {
+            "plu": 60526,
+            "name": "Апельсины",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1158597-main/320x320.jpeg?updated_at=2025-03-10T18:32:08.544Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1158597-main/800x800.jpeg?updated_at=2025-03-10T18:32:08.544Z",
+                    "https://photos.okolo.app/product/5a2ad53af77c289a2de703d5a0830e4a-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "кг",
+            "step": "0.8",
+            "rating": {
+                "rating_average": 4.88,
+                "rates_count": 127778
+            },
+            "promo": null,
+            "prices": {
+                "regular": "119.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "Цена за 1 кг",
+            "has_age_restriction": false,
+            "stock_limit": "25.04",
+            "badges": [],
+            "initial_weight_step": "0.8",
+            "min_weight": "0.8",
+            "orange_loyalty_points": 70
+        },
+        {
+            "plu": 48188,
+            "name": "Яблоки Голден",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1158298-main/320x320.jpeg?updated_at=2025-03-10T18:32:09.580Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1158298-main/800x800.jpeg?updated_at=2025-03-10T18:32:09.580Z",
+                    "https://photos.okolo.app/product/1147a68691bb652a1288bb1cc052b57b-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "кг",
+            "step": "0.5",
+            "rating": {
+                "rating_average": 4.89,
+                "rates_count": 64169
+            },
+            "promo": null,
+            "prices": {
+                "regular": "176.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "Сладкие",
+                    "icon_url": null,
+                    "bg_color": "#8FAACB",
+                    "text_color": "#FFFFFF"
+                }
+            ],
+            "property_clarification": "Цена за 1 кг",
+            "has_age_restriction": false,
+            "stock_limit": "15.74",
+            "badges": [],
+            "initial_weight_step": "0.5",
+            "min_weight": "0.5",
+            "orange_loyalty_points": 70
+        },
+        {
+            "plu": 3021692,
+            "name": "Бананы Красная Цена фасованные",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1161994-main/320x320.jpeg?updated_at=2025-02-18T14:34:39.681Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1161994-main/800x800.jpeg?updated_at=2025-02-18T14:34:39.681Z",
+                    "https://photos.okolo.app/product/74809bdbb91be0a42352d4773942ad64-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "кг",
+            "step": "1.2",
+            "rating": {
+                "rating_average": 4.9,
+                "rates_count": 113683
+            },
+            "promo": null,
+            "prices": {
+                "regular": "149.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "Цена за 1 кг",
+            "has_age_restriction": false,
+            "stock_limit": "7.00",
+            "badges": [],
+            "initial_weight_step": "1.2",
+            "min_weight": "1.2",
+            "orange_loyalty_points": 70
+        },
+        {
+            "plu": 3016763,
+            "name": "Яблоки фасованные",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1161901-main/320x320.jpeg?updated_at=2025-02-18T14:34:39.809Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1161901-main/800x800.jpeg?updated_at=2025-02-18T14:34:39.809Z"
+                ]
+            },
+            "uom": "кг",
+            "step": "1.2",
+            "rating": {
+                "rating_average": 4.87,
+                "rates_count": 75320
+            },
+            "promo": null,
+            "prices": {
+                "regular": "84.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "Цена за 1 кг",
+            "has_age_restriction": false,
+            "stock_limit": "16.40",
+            "badges": [],
+            "initial_weight_step": "1.2",
+            "min_weight": "1.2",
+            "orange_loyalty_points": 59
+        },
+        {
+            "plu": 5793,
+            "name": "Яблоки Гренни Смит",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1157230-main/320x320.jpeg?updated_at=2025-03-10T15:38:28.167Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1157230-main/800x800.jpeg?updated_at=2025-03-10T15:38:28.167Z",
+                    "https://photos.okolo.app/product/62463ba2fd02a64fac88bd5b31bab960-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/1361aea1d211d1cf17a8d68928635dec-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "кг",
+            "step": "0.5",
+            "rating": {
+                "rating_average": 4.9,
+                "rates_count": 39671
+            },
+            "promo": null,
+            "prices": {
+                "regular": "159.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "С кислинкой",
+                    "icon_url": null,
+                    "bg_color": "#8FAACB",
+                    "text_color": "#FFFFFF"
+                }
+            ],
+            "property_clarification": "Цена за 1 кг",
+            "has_age_restriction": false,
+            "stock_limit": "11.71",
+            "badges": [],
+            "initial_weight_step": "0.5",
+            "min_weight": "0.5",
+            "orange_loyalty_points": 70
+        },
+        {
+            "plu": 47642,
+            "name": "Мандарины",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1158272-main/320x320.jpeg?updated_at=2025-03-10T18:16:31.977Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1158272-main/800x800.jpeg?updated_at=2025-03-10T18:16:31.977Z",
+                    "https://photos.okolo.app/product/5a789061bd94b01d96f5146f2a79d596-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "кг",
+            "step": "0.5",
+            "rating": {
+                "rating_average": 4.87,
+                "rates_count": 135266
+            },
+            "promo": null,
+            "prices": {
+                "regular": "199.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "Цена за 1 кг",
+            "has_age_restriction": false,
+            "stock_limit": "12.14",
+            "badges": [],
+            "initial_weight_step": "0.5",
+            "min_weight": "0.5",
+            "orange_loyalty_points": 70
+        },
+        {
+            "plu": 54727,
+            "name": "Голубика 125г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1158475-main/320x320.jpeg?updated_at=2025-03-10T18:32:08.608Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1158475-main/800x800.jpeg?updated_at=2025-03-10T18:32:08.608Z",
+                    "https://photos.okolo.app/product/b2ec8f6cbc5beaf6de72ae6b4d8e6b0f-additional/800x800.jpeg",
+                    "https://photos.okolo.app/product/abaec99ec4bbfeee978f0854767808b8-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.81,
+                "rates_count": 16057
+            },
+            "promo": null,
+            "prices": {
+                "regular": "199.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "125 г",
+            "has_age_restriction": false,
+            "stock_limit": "6.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 70
+        },
+        {
+            "plu": 4350310,
+            "name": "Виноград белый б/к",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1834769-main/320x320.jpeg?updated_at=2025-06-03T19:54:42.731Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1834769-main/800x800.jpeg?updated_at=2025-06-03T19:54:42.731Z"
+                ]
+            },
+            "uom": "кг",
+            "step": "0.8",
+            "rating": {
+                "rating_average": 4.86,
+                "rates_count": 38797
+            },
+            "promo": null,
+            "prices": {
+                "regular": "269.99",
+                "discount": "239.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-11%",
+                    "bg_color": "#FFD700",
+                    "text_color": "#302E33"
+                }
+            ],
+            "property_clarification": "Цена за 1 кг",
+            "has_age_restriction": false,
+            "stock_limit": "2.77",
+            "badges": [],
+            "initial_weight_step": "0.8",
+            "min_weight": "0.8",
+            "orange_loyalty_points": null
+        },
+        {
+            "plu": 48637,
+            "name": "Яблоки Global Village Роял Гала",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1158310-main/320x320.jpeg?updated_at=2025-03-10T15:43:26.742Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1158310-main/800x800.jpeg?updated_at=2025-03-10T15:43:26.742Z"
+                ]
+            },
+            "uom": "кг",
+            "step": "1.2",
+            "rating": {
+                "rating_average": 4.87,
+                "rates_count": 32141
+            },
+            "promo": null,
+            "prices": {
+                "regular": "179.99",
+                "discount": "159.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-11%",
+                    "bg_color": "#FFD700",
+                    "text_color": "#302E33"
+                }
+            ],
+            "property_clarification": "Цена за 1 кг",
+            "has_age_restriction": false,
+            "stock_limit": "9.33",
+            "badges": [],
+            "initial_weight_step": "1.2",
+            "min_weight": "1.2",
+            "orange_loyalty_points": null
+        },
+        {
+            "plu": 3148279,
+            "name": "Авокадо Global Village Хасс 2шт.",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1162650-main/320x320.jpeg?updated_at=2025-03-10T18:16:32.545Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1162650-main/800x800.jpeg?updated_at=2025-03-10T18:16:32.545Z",
+                    "https://photos.okolo.app/product/b40281188d5c9685aa8f320fdf755dbf-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.69,
+                "rates_count": 13288
+            },
+            "promo": null,
+            "prices": {
+                "regular": "249.99",
+                "discount": "226.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-9%",
+                    "bg_color": "#FFD700",
+                    "text_color": "#302E33"
+                }
+            ],
+            "property_clarification": "2 шт",
+            "has_age_restriction": false,
+            "stock_limit": "9.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": null
+        },
+        {
+            "plu": 3204828,
+            "name": "Яблоки красные",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1163679-main/320x320.jpeg?updated_at=2025-01-10T10:04:10.409Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1163679-main/800x800.jpeg?updated_at=2025-01-10T10:04:10.409Z"
+                ]
+            },
+            "uom": "кг",
+            "step": "0.8",
+            "rating": {
+                "rating_average": 4.89,
+                "rates_count": 27625
+            },
+            "promo": null,
+            "prices": {
+                "regular": "186.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "Сладкие",
+                    "icon_url": null,
+                    "bg_color": "#8FAACB",
+                    "text_color": "#FFFFFF"
+                }
+            ],
+            "property_clarification": "Цена за 1 кг",
+            "has_age_restriction": false,
+            "stock_limit": "12.09",
+            "badges": [],
+            "initial_weight_step": "0.8",
+            "min_weight": "0.8",
+            "orange_loyalty_points": 70
+        },
+        {
+            "plu": 1705,
+            "name": "Грейпфрут красный",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1157121-main/320x320.jpeg?updated_at=2025-03-12T07:06:20.841Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1157121-main/800x800.jpeg?updated_at=2025-03-12T07:06:20.841Z",
+                    "https://photos.okolo.app/product/6da5c6335c2ad5dde9469aaf5dd99275-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "кг",
+            "step": "0.7",
+            "rating": {
+                "rating_average": 4.91,
+                "rates_count": 30677
+            },
+            "promo": null,
+            "prices": {
+                "regular": "201.59",
+                "discount": "179.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-10%",
+                    "bg_color": "#FFD700",
+                    "text_color": "#302E33"
+                }
+            ],
+            "property_clarification": "Цена за 1 кг",
+            "has_age_restriction": false,
+            "stock_limit": "10.33",
+            "badges": [],
+            "initial_weight_step": "0.7",
+            "min_weight": "0.7",
+            "orange_loyalty_points": null
+        },
+        {
+            "plu": 3644078,
+            "name": "Авокадо",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1185186-main/320x320.jpeg?updated_at=2025-03-25T11:16:14.464Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1185186-main/800x800.jpeg?updated_at=2025-03-25T11:16:14.464Z",
+                    "https://photos.okolo.app/product/0a8754fdafdfc20f725b18092aeeaf82-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "кг",
+            "step": "0.4",
+            "rating": {
+                "rating_average": 4.83,
+                "rates_count": 42740
+            },
+            "promo": null,
+            "prices": {
+                "regular": "399.99",
+                "discount": "349.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-12%",
+                    "bg_color": "#FFD700",
+                    "text_color": "#302E33"
+                }
+            ],
+            "property_clarification": "Цена за 1 кг",
+            "has_age_restriction": false,
+            "stock_limit": "2.53",
+            "badges": [],
+            "initial_weight_step": "0.4",
+            "min_weight": "0.4",
+            "orange_loyalty_points": null
+        },
+        {
+            "plu": 4341511,
+            "name": "Слива Темная круглая",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1609449-main/320x320.jpeg?updated_at=2025-03-10T09:04:04.648Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1609449-main/800x800.jpeg?updated_at=2025-03-10T09:04:04.648Z",
+                    "https://photos.okolo.app/product/aa9853db80a0cb716b1f4a5812848984-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "кг",
+            "step": "0.5",
+            "rating": {
+                "rating_average": 4.75,
+                "rates_count": 21336
+            },
+            "promo": null,
+            "prices": {
+                "regular": "353.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "Цена за 1 кг",
+            "has_age_restriction": false,
+            "stock_limit": "3.93",
+            "badges": [],
+            "initial_weight_step": "0.5",
+            "min_weight": "0.5",
+            "orange_loyalty_points": 210
+        },
+        {
+            "plu": 4125677,
+            "name": "Яблоки Global Village Голден фасованные",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1212224-main/320x320.jpeg?updated_at=2025-04-16T08:18:50.278Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1212224-main/800x800.jpeg?updated_at=2025-04-16T08:18:50.278Z"
+                ]
+            },
+            "uom": "кг",
+            "step": "1.3",
+            "rating": {
+                "rating_average": 4.87,
+                "rates_count": 17806
+            },
+            "promo": null,
+            "prices": {
+                "regular": "169.99",
+                "discount": "149.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-11%",
+                    "bg_color": "#FFD700",
+                    "text_color": "#302E33"
+                }
+            ],
+            "property_clarification": "Цена за 1 кг",
+            "has_age_restriction": false,
+            "stock_limit": "10.83",
+            "badges": [],
+            "initial_weight_step": "1.3",
+            "min_weight": "1.3",
+            "orange_loyalty_points": null
+        },
+        {
+            "plu": 609,
+            "name": "Яблоко Global Village красное",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1157080-main/320x320.jpeg?updated_at=2025-04-16T08:53:33.134Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1157080-main/800x800.jpeg?updated_at=2025-04-16T08:53:33.134Z"
+                ]
+            },
+            "uom": "кг",
+            "step": "1.2",
+            "rating": {
+                "rating_average": 4.86,
+                "rates_count": 29100
+            },
+            "promo": null,
+            "prices": {
+                "regular": "186.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "Сладкие",
+                    "icon_url": null,
+                    "bg_color": "#8FAACB",
+                    "text_color": "#FFFFFF"
+                }
+            ],
+            "property_clarification": "Цена за 1 кг",
+            "has_age_restriction": false,
+            "stock_limit": "8.35",
+            "badges": [],
+            "initial_weight_step": "1.2",
+            "min_weight": "1.2",
+            "orange_loyalty_points": 70
+        },
+        {
+            "plu": 4165108,
+            "name": "Виноград Микс 500г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/1460034-main/320x320.jpeg?updated_at=2025-04-24T08:50:39.068Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/1460034-main/800x800.jpeg?updated_at=2025-04-24T08:50:39.068Z"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.85,
+                "rates_count": 6759
+            },
+            "promo": null,
+            "prices": {
+                "regular": "199.99",
+                "discount": null,
+                "cpd_promo_price": null
+            },
+            "labels": null,
+            "property_clarification": "500 г",
+            "has_age_restriction": false,
+            "stock_limit": "4.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": 70
+        },
+        {
+            "plu": 3445017,
+            "name": "Личи 200г",
+            "image_links": {
+                "small": [
+                    "https://photos.okolo.app/product/2019225-main/320x320.jpeg?updated_at=2025-06-03T20:05:43.433Z"
+                ],
+                "normal": [
+                    "https://photos.okolo.app/product/2019225-main/800x800.jpeg?updated_at=2025-06-03T20:05:43.433Z",
+                    "https://photos.okolo.app/product/c695b08b952cf6a94b8fbac6bf6240c6-additional/800x800.jpeg"
+                ]
+            },
+            "uom": "шт",
+            "step": "1.0",
+            "rating": {
+                "rating_average": 4.74,
+                "rates_count": 233
+            },
+            "promo": null,
+            "prices": {
+                "regular": "269.99",
+                "discount": "99.99",
+                "cpd_promo_price": null
+            },
+            "labels": [
+                {
+                    "label": "-62%",
+                    "bg_color": "#FFD700",
+                    "text_color": "#302E33"
+                }
+            ],
+            "property_clarification": "200 г",
+            "has_age_restriction": false,
+            "stock_limit": "6.00",
+            "badges": [],
+            "initial_weight_step": "1.0",
+            "min_weight": "1.0",
+            "orange_loyalty_points": null
+        }
+    ]
+}

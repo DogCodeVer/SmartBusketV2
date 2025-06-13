@@ -1,0 +1,110 @@
+{
+    "plu": 49874,
+    "name": "Персики",
+    "image_links": {
+        "small": [
+            "https://photos.okolo.app/product/1158369-main/320x320.jpeg?updated_at=2025-01-10T10:03:06.353Z"
+        ],
+        "normal": [
+            "https://photos.okolo.app/product/1158369-main/800x800.jpeg?updated_at=2025-01-10T10:03:06.353Z"
+        ]
+    },
+    "uom": "кг",
+    "step": "0.3",
+    "rating": {
+        "rating_average": 4.72,
+        "rates_count": 18003
+    },
+    "promo": null,
+    "prices": [
+        {
+            "value": "257.99",
+            "placement_type": "promotional_primary"
+        },
+        {
+            "value": "289.99",
+            "placement_type": "regular_secondary"
+        }
+    ],
+    "labels": [
+        {
+            "label": "-11%",
+            "bg_color": "#FFD700",
+            "text_color": "#302E33"
+        }
+    ],
+    "property_clarification": "Цена за 1 кг",
+    "has_age_restriction": false,
+    "stock_limit": "3.45",
+    "initial_weight_step": "0.3",
+    "min_weight": "0.3",
+    "description": null,
+    "description_md": null,
+    "description_html": null,
+    "nutrients": [
+        {
+            "value": "0.9",
+            "text": "белки"
+        },
+        {
+            "value": "0.3",
+            "text": "жиры"
+        },
+        {
+            "value": "10.0",
+            "text": "углеводы"
+        },
+        {
+            "value": "45.0",
+            "text": "ккал"
+        }
+    ],
+    "attributes": [
+        {
+            "name": "Вес",
+            "value": "1.0",
+            "uom": "кг"
+        },
+        {
+            "name": "Срок хранения",
+            "value": "5 дней",
+            "uom": null
+        },
+        {
+            "name": "Условия хранения",
+            "value": "при температуре от 2°С до 6°С",
+            "uom": null
+        },
+        {
+            "name": "Страна производства",
+            "value": "Испания",
+            "uom": null
+        },
+        {
+            "name": "Белки",
+            "value": "0.9",
+            "uom": "г"
+        },
+        {
+            "name": "Жиры",
+            "value": "0.3",
+            "uom": "г"
+        },
+        {
+            "name": "Углеводы",
+            "value": "10.0",
+            "uom": "г"
+        },
+        {
+            "name": "Энергетическая ценность",
+            "value": "45.0",
+            "uom": "ккал"
+        }
+    ],
+    "ingredients": "персик",
+    "ingredients_html": null,
+    "is_available": true,
+    "is_various_manufacturers": true,
+    "badges": [],
+    "orange_loyalty_points": null
+}
